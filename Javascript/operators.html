@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+  </head>
+
+  <body>
+    <script type="text/javascript">
+      //operators
+      var rate = true
+      var total = 10
+      if (!rate || total < 0) {
+        document.write("This is True.");
+
+      } else if (total > 9) {
+        document.write("The rate is greater than 9.");
+      } else {
+        document.write("this is false.");
+      }
+      if (rate) {
+        document.write("\nwill this print?" + "<br>");
+      }
+
+      //while loop
+      var counter = 1;
+      var stoploop = 5;
+      while (counter <= stoploop) {
+        document.write(`\n Counter is ${counter} <br>`);
+        counter++;
+      }
+
+      //for loop
+
+      for (var x = 1; x <= stoploop; x++) {
+        document.write("\n Counter is " + x + "<br>")
+      }
+
+      //arrays
+
+      var aTest = new Array(10);
+      var aTest2 = [];
+
+      aTest2[1] = 6;
+      aTest2[0] = 3;
+      for (counter = 0; counter < aTest2.length; counter++)[
+        document.write("the information is " + aTest2[counter] + "<br>")
+      ]
+    </script>
+  </body>
+
+</html>
