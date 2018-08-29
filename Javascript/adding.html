@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+  <body>
+
+    <p>Click the button to demonstrate the prompt box.</p>
+
+    <button onclick="myFunction()">Try it</button>
+
+    <p id="demo"></p>
+
+    <script>
+      function myFunction() {
+        var item_list = new Array();
+        var new_item = prompt("Please enter the item price", "10");
+        var parsed_item = parseInt(new_item);
+        item_list += parsed_item;
+
+        if (item_list != null) {
+          document.getElementById("demo").innerHTML =
+            "$" + item_list[item_list.length - 1];
+        }
+      }
+    </script>
+
+  </body>
+
+</html>
