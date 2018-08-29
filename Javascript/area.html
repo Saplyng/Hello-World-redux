@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculate length Per Gallon</title>
+    <script>
+        var length = prompt("Enter rectangle Length");
+        length = parseFloat(length);
+        var width = prompt("Enter rectangle Width");
+        width = parseFloat(width);
+        var area = length * width;
+        area = parseInt(area);
+        var perimeter = (length * 2) + (width * 2)
+    </script>
+
+</head>
+<body>
+    <main>
+        <h1>The Area and Perimeter App</h1>
+        <p>Length = <script>document.write(length)</script><br/>
+        Width = <script>document.write(width)</script></p>
+        <p>Area = <script>document.write(area)</script></p>
+        <p>Perimeter = <script>document.write(perimeter)</script></p>
+
+        <p>Thanks for using the Area and Perimeter Application</p>
+    </main>
+</body>
+</html>
