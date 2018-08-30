@@ -6,20 +6,30 @@
     <p>Click the button to demonstrate the prompt box.</p>
 
     <button onclick="myFunction()">Try it</button>
-
-    <p id="demo"></p>
+    <button onclick="addingTotal()">Total the results</button>
+    <div id="div1">
+    </div>
 
     <script>
+    var item_list = [];
       function myFunction() {
-        var item_list = new Array();
-        var new_item = prompt("Please enter the item price", "10");
-        var parsed_item = parseInt(new_item);
-        item_list += parsed_item;
+        var para = document.createElement("p");
+
+        item_list.push(parseInt(prompt("Please enter the item price", "10")));
 
         if (item_list != null) {
-          document.getElementById("demo").innerHTML =
-            "$" + item_list[item_list.length - 1];
+          var node = document.createTextNode(`$${item_list[item_list.length - 1]}`);
+          para.appendChild(node);
+          var element = document.getElementById("div1");
+          element.appendChild(para);
         }
+      }
+      function addingTotal(){
+        var para = document.createElement("p");
+        var node = document.createTextNode(item_list.reduce((a, b) => a + b, 0));
+        para.appendChild(node);
+        var element = document.getElementById("div1");
+        element.appendChild(para);
       }
     </script>
 
