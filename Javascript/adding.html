@@ -26,10 +26,13 @@
       }
       function addingTotal(){
         var para = document.createElement("p");
-        var node = document.createTextNode(item_list.reduce((a, b) => a + b, 0));
+        var node = document.createTextNode(`$${item_list.reduce((a, b) => a + b, 0)}`);
         para.appendChild(node);
         var element = document.getElementById("div1");
         element.appendChild(para);
+      }
+      function savings(){
+        
       }
     </script>
 
