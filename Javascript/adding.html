@@ -1,15 +1,10 @@
 <!DOCTYPE html>
 <html>
-
-  <body>
-
-    <p>Click the button to demonstrate the prompt box.</p>
-
-    <button onclick="myFunction()">Try it</button>
-    <button onclick="addingTotal()">Total the results</button>
-    <div id="div1">
-    </div>
-
+<head>
+    <title>Calculate Miles Per Gallon - Lorem Ipsum</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
     <script>
     var item_list = [];
       function myFunction() {
@@ -26,16 +21,83 @@
       }
       function addingTotal(){
         var para = document.createElement("p");
-        var node = document.createTextNode(`$${item_list.reduce((a, b) => a + b, 0)}`);
+        //var total = savings(item_list.reduce((a, b) => a + b, 0));
+        var node = document.createTextNode(`$${savings()}`);
         para.appendChild(node);
         var element = document.getElementById("div1");
         element.appendChild(para);
+        //return total;
       }
       function savings(){
-        
-      }
-    </script>
+        int = item_list.reduce((a, b) => a + b, 0);
+        if ( int >= 50 && int < 100)
+        {
+          alert("You're eligable for a 5 percent discount!")
+          return int * .95;
+        }
+        else if ( int >= 100 && int < 250)
+        {
+          alert("You're eligable for a 10 percent discount!")
+          return int * .90;
+        }
+        else if (int >= 250)
+        {
+          alert("You're eligable for a 15 percent discount!")
+          return int * .85;
+        }
+        else
+        {
+          return null;
+        }
+       }
 
+    </script>
+</head>
+
+<body id="adding">
+
+  <nav>
+  <section>
+      <span class="home">
+          <a href="/">Home</a>
+      </span>
+      <span class="links">
+          <a href="/blog/">Blog</a>
+          <a href="/news/">News</a>
+          <a href="/contact/">Contact</a>
+          <a href="/about/">About</a>
+      </span>
+  </section>
+  </nav>
+
+  <main>
+  <article>
+
+  <h1><a href="/blog/adding/">{{ title }}</a></h1>
+  <p class="meta">Published on 2018-09-06 by <b>Admin</b></p>
+  <p>Click the button to demonstrate the prompt box.</p>
+    <p>Click the button to demonstrate the prompt box.</p>
+
+
+    <button onclick="myFunction()">Add to your checkout list</button>
+    <button onclick="addingTotal()">Total the results</button>
+    <div id="div1">
+    </div>
+
+  </article>
+
+  </main>
+
+  <footer>
+  <section>
+  <p>&copy; 2018 Lorem Ipsum</p>
+  <p>
+      <a href="https://twitter.com/sunainapai">Twitter</a>
+      <a href="https://github.com/sunainapai">GitHub</a>
+      <a href="https://www.example.com/">Example</a>
+  </p>
+  </section>
+  </footer>
   </body>
 
 </html>
