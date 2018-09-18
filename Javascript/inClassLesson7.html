@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+
+  <script>
+var $ = function(id){
+  return document.getElementById(id);
+}
+function change01(){
+  $("large").src = "http://via.placeholder.com/250x250"
+  $("large").setAttribute("src","http://via.placeholder.com/250x250");
+  $("large").setAttribute("alt","Hi There");
+
+}
+
+  var list = $("idList");
+  var items = list.getElementsByTagName("li");
+
+  </script>
+
+</head>
+<body>
+  <img id="large" src="http://via.placeholder.com/100x100" alt="placeholder" onclick="change01()">
+
+  <ul id="idList">
+    <li>List 1</li>
+    <li>List 2</li>
+    <li>List 3</li>
+  </ul>
+
+</body>
+</html>

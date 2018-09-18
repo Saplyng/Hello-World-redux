@@ -3,6 +3,7 @@ import java.time.format.DateTimeFormatter
 import java.util.*
 
 fun main(args: Array<String>) {
+    var average = 29.53
     var year: Int = Calendar.getInstance().get(Calendar.YEAR)
     val formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd")
     var today = LocalDate.now()
@@ -15,6 +16,16 @@ fun main(args: Array<String>) {
         //println(newMoons)
     }
 
+    fun avg(args: Int){
+      if (average >= 29.53){
+        average = (average + 29) / 2
+        return 29
+      else if (average < 28.53){
+        average = (average + 30) / 2
+        return 30
+      }
+      }
+    }
 
     println("Today is $formattedToday")
     println("This is the next full moon $newMoons")
