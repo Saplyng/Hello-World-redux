@@ -7,19 +7,20 @@ fun main(args: Array<String>) {
     val today = LocalDate.now()
     val formattedToday = today.format(formatter)
 
-    var newMoons: LocalDate = LocalDate.of(2018, 1, 1)
+    var newMoons: LocalDate = LocalDate.of(1900, 1, 15)
 
     fun correctedAverage(): Long{
         var moonAvg = 29.53
+        var result = 0
         fun moonMath(): Long{
-            if (moonAvg >= 29.53) {
+            if (moonAvg > 29.53){
                 moonAvg = (moonAvg + 29) / 2
-                return 29
-            }else if (moonAvg < 29.53) {
+                result = 29
+            }else if (moonAvg <= 29.53){
                 moonAvg = (moonAvg + 30) / 2
-                return 30
+                result = 30
             }
-            
+            return result.toLong()
         }
         return moonMath()
     }
@@ -33,8 +34,4 @@ fun main(args: Array<String>) {
 
     println("Today is $formattedToday")
     println("This is the next full moon $newMoons")
-
-
-
-
 }
