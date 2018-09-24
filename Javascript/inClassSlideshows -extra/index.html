@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <title>Slideshow</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="container">
+    <h1>Sample Slideshow</h1>
+    <!-- <p><a href="#"><img src="img/play.png" alt="Play" id="control" width="40px" height="40px" onclick="slidecontrol()"></a></p> -->
+    <div id="slideshow">
+      <h3 id="title">This is Image 1</h3>
+      <img src="http://via.placeholder.com/350x467?text=1" alt="PH" id="main_image" width="350px" height="467" onmouseover="pauseIt()" onmouseout="resumeIt()">
+      <p id="caption">This is the caption of Image 1</p>
+    </div>
+  </div>
+  <script src="js/slide.js" charset="utf-8"></script>
+</body>
+</html>
