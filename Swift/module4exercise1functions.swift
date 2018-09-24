@@ -2,7 +2,7 @@
 
 //For each of the numbered steps in the comments, add the code requested on the line(s) below the instruction.
 
-import foundation
+import Foundation
 
 // 1. Create a function that takes an integer parameter and returns the square of the value. Call the function.
 func square(x: Int) ->  Int {
