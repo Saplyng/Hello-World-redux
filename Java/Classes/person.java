@@ -1,4 +1,4 @@
-Public class Person{
+public class Person{
   String firstName = "";
   String lastName = "";
   String address = "";
@@ -7,11 +7,22 @@ Public class Person{
   String zipCode = "";
   String hmPhone = "";
   String celPhone = "";
+  LocalDate birthdate = LocalDate.now();
 
 
-  public Person (){
-
+  public static int calcAge(LocalDate xDate){
+    return xDate.until(LocalDate.now(), ChronoUnit.DAYS);
   }
+
+
+
+
+
+
+
+
+
+
 
 
 }
