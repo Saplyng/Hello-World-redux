@@ -1,4 +1,4 @@
-//import Foundation
+import Foundation
 
 func paintJob(squareFeet: Int,paintCost: Double) -> String {
     let paintRequired = (Double(squareFeet) / 380).rounded(.up) // amount(gallons) of paint for the project
