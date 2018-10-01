@@ -1,6 +1,6 @@
 import Foundation
 
-func paintJob(squareFeet: Int,paintCost: Double) -> String {
+func paintJob(squareFeet: Int,paintCost: Double?) throws -> String {
     let paintRequired = (Double(squareFeet) / 380).rounded(.up) // amount(gallons) of paint for the project
 
     let paintTotal = paintCost * paintRequired // total cost of all the paint required
@@ -10,7 +10,7 @@ func paintJob(squareFeet: Int,paintCost: Double) -> String {
     let laborCharge = 35.00 * laborRequired // labor charges
 
     var totalCharge = laborCharge + paintTotal
-    totalCharge = Double((100*totalCharge)/100) // format to two decimal places
+    totalCharge = Double(round(100*totalCharge)/100) // format to two decimal places
 
 
     let printOutString = """
