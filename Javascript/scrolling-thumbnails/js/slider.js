@@ -28,7 +28,7 @@ function moveLeft(){
     ViewableImg[1] = ViewableImg[0];
     ViewableImg[0]--;
     if (ViewableImg[0] <= count){
-        ViewableImg[0] = images[someOtherCount];
+        // ViewableImg[0] = images[someOtherCount];
     }
     displayViewImg();
     someOtherCount--
