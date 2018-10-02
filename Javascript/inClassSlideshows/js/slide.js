@@ -1,23 +1,38 @@
 var images = [
-  "http://via.placeholder.com/350x467?text=1",
-  "http://via.placeholder.com/350x467?text=2",
-  "http://via.placeholder.com/350x467?text=3",
-  "http://via.placeholder.com/350x467?text=4",
-  "http://via.placeholder.com/350x467?text=5"];
+ "img/chick.jpg",
+ "img/class.jpg",
+ "img/iphonexs.jpg",
+ "img/jamaica.jpg",
+ "img/mathproblem.jpg",
+ "img/mississippi.jpg",
+ "img/pope-rope.jpg",
+ "img/pringles.jpg",
+ "img/spooktober-meme.jpg",
+ "img/underage.jpg"];
 
 var titles = [
-  "This is Image 1",
-  "This is Image 2",
-  "This is Image 3",
-  "This is Image 4",
-  "This is Image 5"];
+ "Apparently you get a lot of karma for old memes",
+ "I think we can all relate",
+ "Sorry but no",
+ "Pls make it stop ;-;",
+ "that's right",
+ "missippi",
+ "Holy Moly",
+ "Gotta get them all",
+ "You guys do spooktober, right?",
+ "We have all been there"];
 
 var caption = [
-  "This is the caption of Image 1",
-  "This is the caption of Image 2",
-  "This is the caption of Image 3",
-  "This is the caption of Image 4",
-  "This is the caption of Image 5"];
+  "Someone's got PTSD",
+  "I know I can",
+  "But you know screw iphone >.>",
+  "I'm not on board but don't care either way",
+  "I know I've been the proprieter of several apples",
+  "you were so close",
+  "gotta be chilly up there",
+  "They're almost like pokemon, the last ones are legendaries",
+  "Really though, who doesnt?",
+  "finally getting to the big kids table"];
 
 var count = images.count;
 var image = new Image();
