@@ -5,18 +5,22 @@
 
     <p>Click the button to demonstrate the prompt box.</p>
 
-    <button onclick="myFunction()">Try it</button>
+    <button onclick="getResult">Try it</button>
 
     <p id="demo"></p>
 
     <script>
-      function myFunction() {
-        var person = prompt("Please enter your name", "Harry Potter");
-        if (person != null) {
-          document.getElementById("demo").innerHTML =
-            "Hello " + person + "! How are you today?";
-        }
-      }
+    "use strict"
+    var getInfo = function()    {
+         grade = parseInt(prompt("What's your score on the test?"));
+         var newGrade = getResult(grade);
+         alert("Your grade, curved, is " + newGrade);
+    };
+    var getResult = function(grade)    {
+         var newGrade = grade + 5;
+         return (newGrade);
+    };
+
     </script>
 
   </body>
