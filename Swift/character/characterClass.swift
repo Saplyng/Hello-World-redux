@@ -18,22 +18,23 @@ class BaseCharacter{
         self.name = name
         self.level = level
         self.hp = hp
-        self.mp = location
+        self.mp = mp
+        self.location = location
         self.fealty = fealty
         self.image = image
     }
 
     func describe() -> String {
         return """
-            Name: \(name)
-            level: \(level)
-            hp: \(hp)
-            mp: \(mp)
-            fealty: \(fealty)
-            image: \(image)
+            Name: \(name!)
+            level: \(level!)
+            hp: \(hp!)
+            mp: \(mp!)
+            fealty: \(fealty!)
+            image: \(image!)
             """
     }
 }
 
-let pc1 = BaseCharacter("Suzie", 3, 21, 30, "Dunwall", .pc)
-pc1.describe()
+let pc1 = BaseCharacter("Suzie", 3, 21, 30, "Dunwall", .pc,"")
+print(pc1.describe())
