@@ -10,7 +10,7 @@ var captions = ["This is the caption of image 1.","This is the caption of image 
 
 var image = new Image();// creates an image object
 var count = images.length;// will change if we add more items to the image array
-var someOtherCount = 0
+var someOtherCount = 0;
 
 var ViewableImg = [0,1,2];
 
@@ -27,8 +27,8 @@ function moveLeft(){
     ViewableImg[2] = ViewableImg[1];
     ViewableImg[1] = ViewableImg[0];
     ViewableImg[0]--;
-    if (ViewableImg[0] <= count){
-        // ViewableImg[0] = images[someOtherCount];
+    if (ViewableImg[0] <= -1){
+         ViewableImg[0] = images[someOtherCount];
     }
     displayViewImg();
     someOtherCount--
