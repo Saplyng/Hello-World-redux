@@ -1,0 +1,43 @@
+.leftArrow{
+    -webkit-transform: rotate(180deg);     /* Chrome and other webkit browsers */
+    transform: rotate(180deg);             /* W3C compliant browsers */
+}
+
+img {
+    /* border: 1px solid black; */
+    vertical-align: middle;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+.thumbnail {
+    width:125px;
+    height:125px;
+}
+.centerVert {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.thumbBox {
+    text-align: center;
+    margin: 5px auto;
+    height: 130px;
+    /* border: 1px solid black; */
+}
+
+.middleImg {
+    border: 2px solid purple;
+    margin: 5px;
+}
+
+.largeCenter img {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 20px;
+}
