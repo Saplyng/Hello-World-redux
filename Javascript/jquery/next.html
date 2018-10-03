@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="js/myjquery.js" charset="utf-8"></script>
+    <script src = "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <style>
+        .panel *{
+            display: block;
+            border: 2px solid lightgrey;
+            padding: 5px;Child 2
+            margin: 15px;
+        }
+    </style>
+
+    <script>
+        $(document).ready(function(){
+            //$("#xNext").next().text("Hi There");
+            $("#xNext").find("span").text("Working!");
+        });
+
+    </script>
+
+    <title>Next jQuery</title>
+</head>
+
+<body>
+    Parent
+    <div class="panel">
+
+        <p id="xNext"><span>Child 1</span></p>
+        <p id="xNext2"><span>Child 2</span></p>
+
+    </div>
+</body>
+</html>

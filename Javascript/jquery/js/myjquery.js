@@ -1,6 +1,9 @@
 $(document).ready(function(){
     //jQuery methods go here....
 
+    //syntax
+    //$("selctor/id/class").method;
+
     $("#btn-Text").click(function(){
         $("#textExample").text($("#iText").text());
         //$("#iText").html

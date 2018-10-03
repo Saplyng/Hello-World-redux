@@ -10,13 +10,9 @@ var captions = ["Someone's got PTSD","I know I can","But you know screw iphone >
 
 var image = new Image();// creates an image object
 var count = images.length;// will change if we add more items to the image array
-<<<<<<< HEAD
-var someOtherCount = 0;
-=======
 var someOtherCount = 2;
->>>>>>> 6b2138987f9c157c5e4d32712271d690bb4c88a8
 
-var ViewableImg = [0,1,2];
+var ViewableImg = [0,1,2,3,4];
 
 
 function displayViewImg(){
@@ -26,11 +22,13 @@ function displayViewImg(){
     $("ViewImg4").src = images[ViewableImg[3]];
     $("ViewImg5").src = images[ViewableImg[4]];
     $("large").src = images[ViewableImg[2]];
-    
+
+    someOtherCount++;
+
     $("title").innerHTML = titles[someOtherCount];
     $("caption").innerHTML = captions[someOtherCount];
-    
-    someOtherCount++;
+
+
 }
 
 function displayViewImgreverse(){
@@ -40,9 +38,9 @@ function displayViewImgreverse(){
     $("ViewImg4").src = images[ViewableImg[3]];
     $("ViewImg5").src = images[ViewableImg[4]];
     $("large").src = images[ViewableImg[2]];
-    
+
     someOtherCount--;
-    
+
     $("title").innerHTML = titles[someOtherCount-1];
     $("caption").innerHTML = captions[someOtherCount-1];
 
@@ -54,17 +52,12 @@ function moveLeft(){
     ViewableImg[2] = ViewableImg[1];
     ViewableImg[1] = ViewableImg[0];
     ViewableImg[0]--;
-<<<<<<< HEAD
-    if (ViewableImg[0] <= -1){
-         ViewableImg[0] = images[someOtherCount];
-=======
     if (ViewableImg[0] < 0){
         ViewableImg[0] = count-1;
->>>>>>> 6b2138987f9c157c5e4d32712271d690bb4c88a8
     }
     if(someOtherCount<=1){
         someOtherCount = count+1}
-        
+
     displayViewImgreverse();
 
 }
