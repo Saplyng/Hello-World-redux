@@ -12,7 +12,7 @@ var image = new Image();// creates an image object
 var count = images.length;// will change if we add more items to the image array
 var someOtherCount = 2;
 
-var ViewableImg = [0,1,2];
+var ViewableImg = [0,1,2,3,4];
 
 
 function displayViewImg(){
@@ -22,11 +22,13 @@ function displayViewImg(){
     $("ViewImg4").src = images[ViewableImg[3]];
     $("ViewImg5").src = images[ViewableImg[4]];
     $("large").src = images[ViewableImg[2]];
-    
+
+    someOtherCount++;
+
     $("title").innerHTML = titles[someOtherCount];
     $("caption").innerHTML = captions[someOtherCount];
-    
-    someOtherCount++;
+
+
 }
 
 function displayViewImgreverse(){
@@ -36,9 +38,9 @@ function displayViewImgreverse(){
     $("ViewImg4").src = images[ViewableImg[3]];
     $("ViewImg5").src = images[ViewableImg[4]];
     $("large").src = images[ViewableImg[2]];
-    
+
     someOtherCount--;
-    
+
     $("title").innerHTML = titles[someOtherCount-1];
     $("caption").innerHTML = captions[someOtherCount-1];
 
@@ -55,7 +57,7 @@ function moveLeft(){
     }
     if(someOtherCount<=1){
         someOtherCount = count+1}
-        
+
     displayViewImgreverse();
 
 }
