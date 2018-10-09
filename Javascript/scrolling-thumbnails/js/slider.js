@@ -4,12 +4,39 @@ var $ = function (id) {
 
 //declare vars and array
 
-var images = ["img/chick.jpg","img/class.jpg", "img/iphonexs.jpg","img/jamaica.jpg", "img/mathproblem.jpg", "img/mississippi.jpg", "img/pope-rope.jpg","img/pringles.jpg", "img/spooktober-meme.jpg", "img/underage.jpg"];
-var titles = ["Apparently you get a lot of karma for old memes","I think we can all relate", "Sorry but no", "Pls make it stop ;-;", "that's right","missippi","Holy Moly","Gotta get them all", "You guys do spooktober, right?","We have all been there"];
-var captions = ["Someone's got PTSD","I know I can","But you know screw iphone >.>","I'm not on board but don't care either way","I know I've been the proprieter of several apples","you were so close"," gotta be chilly up there", "They're almost like pokemon, the last ones are legendaries", "Really though, who doesnt?", "finally getting to the big kids table"];
+var images = ["img/chick.jpg",
+    "img/class.jpg",
+    "img/iphonexs.jpg",
+    "img/jamaica.jpg",
+    "img/mathproblem.jpg",
+    "img/mississippi.jpg",
+    "img/pope-rope.jpg",
+    "img/pringles.jpg",
+    "img/spooktober-meme.jpg",
+    "img/underage.jpg"];
+var titles = ["Apparently you get a lot of karma for old memes",
+    "I think we can all relate",
+    "Sorry but no",
+    "Pls make it stop ;-;",
+    "that's right",
+    "missippi",
+    "Holy Moly",
+    "Gotta get them all",
+    "You guys do spooktober, right?",
+    "We have all been there"];
+var captions = ["Someone's got PTSD",
+    "I know I can",
+    "But you know screw iphone >.>",
+    "I'm not on board but don't care either way",
+    "I know I've been the proprieter of several apples",
+    "you were so close",
+    "gotta be chilly up there",
+    "They're almost like pokemon, the last ones are legendaries",
+    "Really though, who doesnt?",
+    "finally getting to the big kids table"];
 
 var image = new Image();// creates an image object
-var count = images.length;// will change if we add more items to the image array
+var count = images.length - 1;// will change if we add more items to the image array
 var someOtherCount = 2;
 
 var ViewableImg = [0,1,2,3,4];
@@ -62,7 +89,7 @@ function moveLeft(){
 
 }
 
-function moveRight(){
+function moveRight()x{
 
     ViewableImg[0] = ViewableImg[1];
     ViewableImg[1] = ViewableImg[2];

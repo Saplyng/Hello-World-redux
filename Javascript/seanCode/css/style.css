@@ -1,0 +1,209 @@
+* {
+    box-sizing: border-box;
+   }
+   body {
+     margin: 0;
+   }
+   #main {
+     display: flex;
+     min-height: calc(100vh - 40vh);
+   }
+   #main > article {
+     flex: 1;
+   }
+   #main > nav,
+   #main > aside {
+     flex: 0 0 20vw;
+     background: #284ab9;
+   }
+   #main > nav {
+     order: -1;
+   }
+   header, footer, article, nav, aside {
+     padding: 1em;
+   }
+   header, footer {
+     background: #868383;
+     height: 20vh;
+   }
+
+
+   .button, .button2, .box1, .box2 {
+	-moz-box-shadow: -14px 19px 26px -6px #276873;
+	-webkit-box-shadow: -14px 19px 26px -6px #276873;
+	box-shadow: -14px 19px 26px -6px #276873;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #599bb3), color-stop(1, #408c99));
+	background:-moz-linear-gradient(top, #599bb3 5%, #408c99 100%);
+	background:-webkit-linear-gradient(top, #599bb3 5%, #408c99 100%);
+	background:-o-linear-gradient(top, #599bb3 5%, #408c99 100%);
+	background:-ms-linear-gradient(top, #599bb3 5%, #408c99 100%);
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#599bb3', endColorstr='#408c99',GradientType=0);
+	background-color:#599bb3;
+	-moz-border-radius:22px;
+	-webkit-border-radius:22px;
+	border-radius:22px;
+	border:1px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:23px;
+	font-weight:bold;
+	padding:26px 16px;
+	text-decoration:none;
+	text-shadow:-3px 4px 0px #3d768a;
+}
+.button:hover, .button2, .box1, .box2 {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #408c99), color-stop(1, #599bb3));
+	background:-moz-linear-gradient(top, #408c99 5%, #599bb3 100%);
+	background:-webkit-linear-gradient(top, #408c99 5%, #599bb3 100%);
+	background:-o-linear-gradient(top, #408c99 5%, #599bb3 100%);
+	background:-ms-linear-gradient(top, #408c99 5%, #599bb3 100%);
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#408c99', endColorstr='#599bb3',GradientType=0);
+	background-color:#408c99;
+}
+.button:active, .button2.active, .box1, .box2 {
+	position:relative;
+	top:1px;
+}
+
+
+
+#panel {
+    padding: 50px;
+    display: none;
+}
+
+#logo {
+    margin: 1px;
+    float: left;
+    width: 100px;
+    height: 100x;
+ /* background: url(../img/rick.png.png) no-repeat center; */
+}
+
+nav {
+    float: right;
+    padding: 25px 20px 0 0;
+
+}
+
+#menu_icon {
+    display: hidden;
+    width: 40px;
+    height: 40px;
+    background: url(/img/nav.png) center;
+}
+
+a:hover#menu_icon {
+    border-radius: 4px 4px 0 0
+}
+
+ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    font-size: 150%;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+nav ul li a {
+    color: #000000;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: #6691ac;
+}
+.socialmedia {
+    list-style-type: none;
+    text-align: center;
+    height: auto;
+}
+
+.socialmedia li {
+    display: inline;
+}
+
+.socialmedia i {
+    font-size: 200%;
+    /* margin: 1%; */
+    padding: 2%;
+    color: #c3d7df;
+}
+
+.socialmedia i:hover {
+    color: #f5f5f5;
+}
+.accordion {
+    background-color: #284ab9;
+    font-family:ubuntu;
+    padding: 18px;
+    width: 100%;
+    text-align:center;
+    border: none;
+    font-size: 120%;
+
+}
+
+.active, .accordion:hover {
+    background-color: #2f5364;
+    color:#f5f5f5
+}
+
+
+.panel{
+     background-color: #b6c6ce;
+
+    font-size: 120%;
+    font-family:ubuntu;
+    width:100%;
+    display: none;
+    overflow: hidden;
+    transition: 2.3 ease-out;
+}
+.panel > p {
+    font-size: 90%;
+    /* padding: 3%; */
+    /* text-indent: 2%; */
+    text-align: center;
+    color: #383131;
+    line-height: 120%;
+    font-family:ubuntu;
+    text-align:left;
+}
+
+
+panel.show {
+    opacity: 1;
+    max-height: 500px;
+}
+
+
+.accordion:after {
+    content: '\02795';
+    font-size: 13px;
+    color: #777;
+    float: left;
+}
+
+.active:after {
+    content: "\2796";
+    float:right;
+}
+
+.expand {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 12px;
+    cursor: pointer;
+}
+.expandable {
+    display:none;
+}
