@@ -7,36 +7,40 @@ class Employee (
         val startDate : String?){
 
 
-
+    
     var actualPay = 0.00
 
     fun calculate(hoursIn: Double){
         when(shift){
             1 -> payRate = payRate
-            2 -> payRate = payRate * 1.05
-            3 -> payRate = payRate * 1.10
+            2 -> payRate = (payRate * 1.05)
+            3 -> payRate = (payRate * 1.10)
             else -> {
+                print("Error, employee doesnt have shift 1, 2, or 3")}}
 
-             print("Error, employee doesnt have shift 1, 2, or 3")}}
+        var moneyMade = hoursIn * payRate
 
-
-
+        //calculation for overtime
         if(hoursIn > 40 &&  !salary){
-            actualPay = payRate * 1.50
+            var overtimeHours = hoursIn - 40
+            var OvertimePay = ((overtimeHours * (payRate * 1.50)))
+            moneyMade = 40 * payRate
+            actualPay = moneyMade + OvertimePay
+            println(OvertimePay)
         }else{
-            actualPay = payRate
+            actualPay = moneyMade
         }
 
 
-
+        //output displayed from calculate function
          print(
             """
                 |employee name: $name
                 |employee position : $position
                 |employee salary : $salary
-                |employee pay rate : $payRate
+                |employee pay rate : $${"%.2f".format(payRate)}/hr
                 |Shift number: $shift
-                |money earned this week: $actualPay
+                |money earned this week: $${"%.2f".format(actualPay)}
                 """.trimMargin())
 
     }
@@ -60,16 +64,13 @@ enum class PositionTitle{
 }
 
 
-class Main {
-    fun main(args: Array<String>) {
+
+fun main(args: Array<String>) {
 
 
-        var wanda = Employee("Wanda", PositionTitle.ADMINISTRATION, true, 50.00, 3, "2018-2-28")
+    var wanda = Employee("Wanda", PositionTitle.ADMINISTRATION, false, 10.00, 1, "2018-2-28")
 
 
-        wanda.calculate(45.00)
-
-    }
-
+     wanda.calculate(41.00)
 
 }
