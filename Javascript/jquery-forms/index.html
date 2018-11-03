@@ -33,7 +33,7 @@
                     $("#phoneNumber").next().text("* Invalid");
                     isValidForm = false;
                     } else if(!phonePattern.test(phoneNum)){
-                    $("#phoneNumber").next().text("* Invalid");
+                    $("#phoneNumber").next().text("* Invalid, please include \"-\"");
                     isValidForm = false;
                     } else {
                     // it is true, do something
@@ -71,20 +71,20 @@
 <body>
     <form id="myForm" name="myForm">
         <fieldset>
-            <legend>Title Area</legend>
+            <!-- <legend>Title Area</legend> -->
             <label for="emailAddress">Enter Email:</label>
             <input type="email" name="emailAddress" id="emailAddress"><span>*</span>
 
         </fieldset>
         <fieldset>
-            <legend>Enter Phone</legend>
+            <!--<legend>Enter Phone</legend> -->
             <label for="phoneNumber">Enter a phone number:</label>
             <input type="text" name="phoneNumber" id="phoneNumber" 
                 placeholder="###-###-####"><span>*</span>
 
         </fieldset>
         <fieldset>
-            <legend>Click on one of these to finish</legend>
+            <!-- <legend>Click on one of these to finish</legend> -->
             <input type="submit" value="Submit" id="btnSubmit">
             <input type="reset" value="Reset" id="btnReset">
         </fieldset>
