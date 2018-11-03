@@ -1,0 +1,54 @@
+{
+    "person" : [
+        {
+            "name" : "Dave",
+            "img" : 1,
+            "bio" : "This is my bio"
+        },
+        {
+            "name" : "Bob",
+            "img" : 2,
+            "bio" : "This is my bio"
+        },
+        {
+            "name" : "Mike",
+            "img" : 3,
+            "bio" : "This is my bio"
+        }
+    ],
+    "movie" : [
+        {
+            "name" : "Incredibles 2",
+            "DVDcase" : "https://resizing.flixster.com/TtfLSkoea6IUbI2yBOGQpkT_a7U=/fit-in/200x296.2962962962963/v1.bTsxMjcxMzEzMTtqOzE3ODc3OzEyMDA7MTA4NjsxNjA5",
+            "desc" : "Everyone's favorite family of superheroes is back in 'Incredibles 2'--but this time Helen (voice of Holly Hunter) is in the spotlight, leaving Bob (voice of Craig T. Nelson) at home with Violet (voice of Sarah Vowell) and Dash (voice of Huck Milner) to navigate the day-to-day heroics of 'normal' life. It's a tough transistion for everyone, made tougher by the fact that the family is still unaware of baby Jack-Jack's emerging superpowers. When a new villain hatches a brilliant and dangerous plot, the family and Frozone (voice of Samuel L. Jackson) must find a way to work together again--which is easier said than done, even when they're all Incredible.",
+            "length" : 118,
+            "rating" : {
+                "rotten": 94,
+                "imdb" : 8,
+                "mpaa" : "PG"
+            }
+        },
+        {
+            "name" : "Venom",
+            "DVDcase" : "https://resizing.flixster.com/nhVx9mTMQY6s3zexh0re4RgXT5Y=/fit-in/200x296.2962962962963/v1.bTsxMjcyMTY5MDtqOzE3ODc3OzEyMDA7NjMyOzk2MA",
+            "desc" : "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of an alien symbiote that gives him a violent super alter-ego: Venom. Soon, he must rely on his newfound powers to protect the world from a shadowy organisation looking for a symbiote of their own.",
+            "length" : 112,
+            "rating" : {
+                "rotten": 30,
+                "imdb" : 7,
+                "mpaa" : "PG-13"
+            }
+        },
+        {
+            "name" : "Halloween",
+            "DVDcase" : "https://resizing.flixster.com/9b7Kphb7SkavtfbLa76q4me5PE0=/fit-in/200x296.2962962962963/v1.bTsxMjcxODM5MTtqOzE3ODc3OzEyMDA7NTc2OzkxMg",
+            "desc" : "Jamie Lee Curtis returns to her iconic role as Laurie Strode, who comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.",
+            "length" : 109,
+            "rating" : {
+                "rotten": 79,
+                "imdb" : 7.8,
+                "mpaa" : "R"
+            }
+        }
+    ]
+}

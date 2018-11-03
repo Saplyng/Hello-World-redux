@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>JSON Example</title>
+</head>
+<body>
+    <p id="teach"></p>
+
+    <p id="obj2obj"></p>
+
+
+
+
+
+
+
+
+
+    <script>
+        var JSONperson = {
+        "name"      : "saplyng",
+        "job"       : "student",
+        "study"     : "Mobile Design",
+        "pets"      : 1,
+        "employed"  : false,
+        "courses"   : ["MAD105","PRG-147", "MAD107"]
+
+        };
+    
+        var JSONpersonObj = {
+        "name"      : "saplyng",
+        "job"       : "student",
+        "study"     : "Mobile Design",
+        "pets"      : 1,
+        "employed"  : false,
+        "courses"   : {"MAD105"     : "Beginning Android Development",
+                        "PRG147"    : "Beginning Javascript Development",
+                        "MAD107"    : "Beginning Swift Development"}
+
+        };
+    
+        document.getElementById("teach").innerHTML = "I am currently listening to: " + JSONperson.courses[1];
+
+
+        document.getElementById("obj2obj").innerHTML = JSONpersonObj.courses.PRG147;
+    
+    </script>
+
+
+
+
+</body>
+</html>
+

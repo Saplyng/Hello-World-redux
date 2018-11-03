@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/3.0.0/mustache.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.cycle/3.0.3/jquery.cycle.all.min.js"></script>
+    <title>Template Example</title>
+</head>
+<body>
+
+    <div id="container">
+        <div id="carousel"></div>
+    </div>
+
+    <script id="jsontpl" type="text/template">
+        {{#person}}
+            <div class="person">
+                <img src="img/{({img}}}" alt="PH{{img}}">
+                <h3>{{name}}</h3>
+                <p>{{bio}}</p>
+            </div>
+        {{/person}}
+    </script>
+
+    <script>
+        $(function(){
+            $.getJSON("mData.json", function(data){
+                var template = $("#jsontpl").html();
+                var html = Mustache.to_html(template, data);
+                $("#carousel").html(html);
+            });
+        });
+    
+    </script>
+
+
+
+</body>
+</html>

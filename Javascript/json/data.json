@@ -1,0 +1,11 @@
+{
+    "name"      : "saplyng",
+    "job"       : "student",
+    "study"     : "Mobile Design",
+    "pets"      : 1,
+    "employed"  : false,
+    "courses"   : {"MAD105"     : "Beginning Android Development",
+                   "PRG147"     : "Beginning Javascript Development",
+                    "MAD107"    : "Beginning Swift Development"}
+
+}

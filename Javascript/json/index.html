@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>JSON</title>
+</head>
+<body>
+    <p id="demo"></p>
+    <p id="json1"></p>
+    <p id="brackets1"></p>
+
+
+
+
+    <script>
+        //javascript object
+        var person = {
+            name        : "saplyng",
+            job         : "student",
+            study       : "Mobile Design",
+            pets        : 1,
+            employed    : false
+        };
+        //JSON notation
+        var JSONperson = {
+            "name"      : "saplyng",
+            "job"       : "student",
+            "study"     : "Mobile Design",
+            "pets"      : 1,
+            "employed"  : false
+        };
+
+        //jso
+        document.getElementById("demo").innerHTML = "Hi my name is " + person.name + 
+            " and I am a " + person.job + " in the field of " + person.study + "."
+
+        //json notation    
+        document.getElementById("json1").innerHTML = "Hi my name is " + JSONperson.name +
+        " and I am a " + JSONperson.job + " in the field of " + JSONperson.study + "."
+
+        //Bracket notation
+        document.getElementById("brackets1").innerHTML = "Hi my name is " + JSONperson["name"] +
+        " and I am a " + JSONperson["job"] + " in the field of " + JSONperson["study"] + "."
+        
+
+    </script>
+
+</body>
+</html>
