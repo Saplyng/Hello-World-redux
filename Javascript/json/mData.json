@@ -50,5 +50,44 @@
                 "mpaa" : "R"
             }
         }
+    ],
+    "speakers" : [
+        {
+            "name" : "Skeletor",
+            "shortname" : "Skeletor",
+            "reknown" : "Lord of Destruction, Overlord of Evil",
+            "bio" : "Likes long walks on the beach"
+        },
+        {
+            "name" : "Skeletor",
+            "shortname" : "Skeletor",
+            "reknown" : "Lord of Destruction, Overlord of Evil",
+            "bio" : "Likes long walks on the beach"
+        },
+        {
+            "name" : "Skeletor",
+            "shortname" : "Skeletor",
+            "reknown" : "Lord of Destruction, Overlord of Evil",
+            "bio" : "Likes long walks on the beach"
+        },
+        {
+            "name" : "Skeletor",
+            "shortname" : "Skeletor",
+            "reknown" : "Lord of Destruction, Overlord of Evil",
+            "bio" : "Likes long walks on the beach"
+        },
+        {
+            "name" : "Skeletor",
+            "shortname" : "Skeletor",
+            "reknown" : "Lord of Destruction, Overlord of Evil",
+            "bio" : "Likes long walks on the beach"
+        },
+        {
+            "name" : "Skeletor",
+            "shortname" : "Skeletor",
+            "reknown" : "Lord of Destruction, Overlord of Evil",
+            "bio" : "Likes long walks on the beach"
+        }
+
     ]
 }
