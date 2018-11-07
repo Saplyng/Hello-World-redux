@@ -16,13 +16,13 @@
     </div>
 
     <script id="jsontpl" type="text/template">
-        {{#person}}
+        {{#speakers}}
             <div class="person">
-                <img src="img/{({img}}}" alt="PH{{img}}">
+                <img src="img/{{{img}}}" alt="PH{{img}}">
                 <h3>{{name}}</h3>
                 <p>{{bio}}</p>
             </div>
-        {{/person}}
+        {{/speakers}}
     </script>
 
     <script>
@@ -31,9 +31,18 @@
                 var template = $("#jsontpl").html();
                 var html = Mustache.to_html(template, data);
                 $("#carousel").html(html);
+
+                $("#carousel").cycle({
+                    fx: fade,
+                    pause: 1,
+                    next: #next_btn,
+                    previous: #prev_btn,
+                    speed:500,
+                    timeout: 10000
+                });
             });
         });
-    
+
     </script>
 
 
