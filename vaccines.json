@@ -7,7 +7,11 @@
                 "Hepatitis B", "HepB",
                 "Recombivax HB", "Engerix-B",
                 "Elovac B", "Genevac B", 
-                "Shanvac B", "Heplisav-B"
+                "Shanvac B", "Heplisav-B",
+                "Amvax B", "Bio-Hep-B",
+                "Fendrex", "H-B-Vax II",
+                "HB-Vax", "HBvaxPRO",
+                "Hepavax Gene"
             ],
             "Description" : ""
             
@@ -19,7 +23,8 @@
                 "Rotavirus", "Rotarix",
                 "RotaTeq", "Rotavac",
                 "Rotavin-M1", "Lanzhou lamb",
-                "Rotasiil"
+                "Rotasiil", "RoatTeq",
+                "Lou Te Wei"
             ],
             "Description" : ""
         },
@@ -28,32 +33,144 @@
             "alias" : 
             [
                 "Diphteria, tetanus, and acellular pertussis", "DTaP",
+                "Daptacel", "Infanrix",
+                "ACEL-IMUNE", "Certiva",
+                "Tripedia", "D.T COQ",
+                "Dif per tet all", "P.D.T. Vax Purified",
+                "Tripacel", "Tripavac",
+                "Tripvac"
+
+            ],
+            "Description" : ""
+        },
+        {
+            "name" : "Haemophilus influenzae type B",
+            "alias" : 
+            [
+                "Haemophilus influenzae type B", "Hib",
+                "ActHIB", "Hiberix",
+                "PedvaxHIB",
+                "HibTITER", "HIBest"
+            ],
+            "Description" : ""
+        },
+        {
+            "name" : "Pneumococcal",
+            "alias" : 
+            [
+                "Pneumococcal", "PCV 7",
+                "Prevar", "Prevenar",
+                "PCV 13", "Prevnar 13",
+                "Pneumovax", "Pneumovax 23",
+                "Synflorix", "PPV"
+            ],
+            "Description" : ""
+        },
+        {
+            "name" : "Inactivated poliovirus vaccine",
+            "alias" : 
+            [
+                "inactivated poliovirus vaccine","IPV",
+                "Ipol", "Imovax Polio",
+                "Opvero", "Polio Salk (Sero)",
+                "Polio Sabin One and Three"
+
+            ],
+            "Description" : ""
+        },
+        {
+            "name" : "Influenza",
+            "alias" : 
+            [
+                "influenza", "flu",
+                "Afluria", "fluad",
+                "Fluarix", "Flublok",
+                "Flucelvax", "FluLaval",
+                "FluMist", "Fluvirin",
+                "Fluzone", "Fluzone-High-Dose",
+                "Fluzone Intradermal", "Agriflu",
+                "IIV3", "IIV4","RIV3","ccIIV4"
                 
 
             ],
             "Description" : ""
         },
         {
-            "name" : "Hepatitis B",
+            "name" : "Measles, mumps, and rubella",
             "alias" : 
             [
-                "Hepatitis B", "HepB",
-                "Recombivax HB", "Engerix-B",
-                "Elovac B", "Genevac B", 
-                "Shanvac B", "Heplisav-B"
+                "measles, mumps, and rubella", "MMR",
+                "M-M-R II", "ProQuad",
+                "M-M-R Vax", "M-M-R Vaxpro",
+                "Morupar", "Mumeru Vax",
+                "Pluserix", "Priorix",
+                "Prioryks", "ROR Vax",
+                "Trimovax", "Triviraten Berna"
             ],
             "Description" : ""
         },
         {
-            "name" : "Hepatitis B",
+            "name" : "Varicella",
             "alias" : 
             [
-                "Hepatitis B", "HepB",
-                "Recombivax HB", "Engerix-B",
-                "Elovac B", "Genevac B", 
-                "Shanvac B", "Heplisav-B"
+                "varicella", "VAR",
+                "Varivax", "Okavax",
+                "Vaccin Varilrix",
+                "Varicela Biken",
+                "Varcelvax", "varipox",
+                "Varivax III", "V-Z Vax"
             ],
             "Description" : ""
         },
+        {
+            "name" : "Hepatitis A",
+            "alias" : 
+            [
+                "hepatitis A", "HepA",
+                "Havrix", "Vaqta",
+                "Avaxim", "Epaxal",
+                "HAVpur", "Havrix 1440",
+                "Havrix Junior", "Havrix Monodose",
+                "Havryks", "Mevac-A"
+            ],
+            "Description" : ""
+        },
+        {
+            "name" : "Serogroup A, C, W, Y",
+            "alias" : 
+            [
+                "serogroup A, C, W, Y", "Menveo",
+                "Menactra", "Menacttra"
+            ],
+            "Description" : ""
+        },
+        {
+            "name" : "Serogroup B meningococcal",
+            "alias" : 
+            [
+                "Serogroup B meningococcal", "Bexsero",
+                "Trumenba", "MenB"
+            ],
+            "Description" : ""
+        },
+        {
+            "name" : "Tetanus, diphtheria, and acellular pertussis",
+            "alias" : 
+            [
+                "tetanus, diphteria, and acellular pertussis", "Tdap",
+                "Adacel", "Boostrix"
+            ],
+            "Description" : ""
+        },
+        {
+            "name" : "Human papillomavirus",
+            "alias" : 
+            [
+                "human papillomavirus", "HPV",
+                "Gardasil", "Cervarix",
+                "Gardasil 9"
+            ],
+            "Description" : ""
+        }
     ]
 }
