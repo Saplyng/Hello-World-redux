@@ -1,0 +1,59 @@
+{
+    "Vaccine" : [
+        {
+            "name" : "Hepatitis B",
+            "alias" : 
+            [
+                "Hepatitis B", "HepB",
+                "Recombivax HB", "Engerix-B",
+                "Elovac B", "Genevac B", 
+                "Shanvac B", "Heplisav-B"
+            ],
+            "Description" : ""
+            
+        },
+        {
+            "name" : "Rotavirus",
+            "alias" : 
+            [
+                "Rotavirus", "Rotarix",
+                "RotaTeq", "Rotavac",
+                "Rotavin-M1", "Lanzhou lamb",
+                "Rotasiil"
+            ],
+            "Description" : ""
+        },
+        {
+            "name" : "Diphteria, tetanus, and acellular pertussis",
+            "alias" : 
+            [
+                "Diphteria, tetanus, and acellular pertussis", "DTaP",
+                
+
+            ],
+            "Description" : ""
+        },
+        {
+            "name" : "Hepatitis B",
+            "alias" : 
+            [
+                "Hepatitis B", "HepB",
+                "Recombivax HB", "Engerix-B",
+                "Elovac B", "Genevac B", 
+                "Shanvac B", "Heplisav-B"
+            ],
+            "Description" : ""
+        },
+        {
+            "name" : "Hepatitis B",
+            "alias" : 
+            [
+                "Hepatitis B", "HepB",
+                "Recombivax HB", "Engerix-B",
+                "Elovac B", "Genevac B", 
+                "Shanvac B", "Heplisav-B"
+            ],
+            "Description" : ""
+        },
+    ]
+}
