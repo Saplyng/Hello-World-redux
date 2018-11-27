@@ -54,7 +54,7 @@ fun main(args: Array<String>) {
         2 -> rectangle()
         3 -> trapezoid()
         4 -> elipse()
-        else -> "Not Available"
+        else -> print("Not Available")
     }
-    println("have a nice day")
+    //println("have a nice day")
 }
