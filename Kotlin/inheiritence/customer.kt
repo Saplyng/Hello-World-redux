@@ -26,15 +26,15 @@ class Commercial (
             }   
 
              println("""
-                Customer Name: $customerName
-                Customer Phone Number: $customerPhone
-                Customer Address: $customerAddress
-                Multiple Customer properties: $multiProperty
+                Customer Name: ${customerName}
+                Customer Phone Number: ${customerPhone}
+                Customer Address: ${customerAddress}
+                Multiple Customer properties: ${multiProperty}
 
-                Property Name: $propertyName
-                Property Square Footage: $squareFootage
+                Property Name: ${propertyName}
+                Property Square Footage: ${squareFootage}
 
-                Weekly Charge: \$$weeklyCharge
+                Weekly Charge: \$${weeklyCharge}
                 """
         
         
