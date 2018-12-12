@@ -1,7 +1,7 @@
 fun main(args: Array<String>) {
 
     print("Enter a number between 1 and 10 to know what it is in japanese: ")
-    var number = readLine()!!.toInt()
+    var number = readLine()!!
     var numString = "x"
 
     when(number){
@@ -16,6 +16,7 @@ fun main(args: Array<String>) {
         9 -> numString = "kyu"
         10 -> numString = "jyu"
         !in 1..10 -> numString = "Out of Range"
+        "one" -> numString = "success"
         else -> numString = "Unknown"
     }
 
