@@ -12,10 +12,4 @@ class Commercial (
     propertyName: String?,
     squareFootage){
 
-    for (1000 in squareFootage){
-    commercialRate: Int?,
-    multiProperty: Int? : Customer(customerName,
-                                        customerPhone,
-                                        customerAddress,
-        commercialRate = commercialRate + 50}
 }
