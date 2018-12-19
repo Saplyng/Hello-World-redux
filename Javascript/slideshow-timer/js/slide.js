@@ -52,11 +52,12 @@ var preload = function(){
 
 
 var slidecontrol = function(){
-  var path=$("control").src;
+  var path = $("control").src;
   var testState = new RegExp("play");
   if(testState.test(path)){
     $("control").src = "img/pause.png";
-    displayImage();}
+    displayImage().slidedown(2000);
+    }
   else{
     $("control").src = "img/play.png";
     clearTimeout(timer);

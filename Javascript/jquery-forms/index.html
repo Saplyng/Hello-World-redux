@@ -6,103 +6,57 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>jQuery Forms</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script>
-            $(document).ready(function(){
-                $("#myForm").submit(function(event){
-                    isValidForm = true;
-                    var emailPattern = /\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}\b/;
-                    var phonePattern = /^\d{3}-\d{3}-\d{4}$/;
-
-                    var email = $("#emailAddress").val().trim();
-
-                    if (email === ""){
-                        $("#emailAddress").next().text("* Invalid");
-                        isValidForm = false;
-                    } else if(!emailPattern.test(email)){
-                        $("#emailAddress").next().text("* Invalid");
-                        isValidForm = false;
-                    } else {
-                        // it is true, do something
-                    }
-                                
-                    
-
-                    var phoneNum = $("#phoneNumber").val().trim();
-
-                    if (phoneNum === ""){
-                    $("#phoneNumber").next().text("* Invalid");
-                    isValidForm = false;
-                    } else if(!phonePattern.test(phoneNum)){
-                    $("#phoneNumber").next().text("* Invalid, please include \"-\"");
-                    isValidForm = false;
-                    } else {
-                    // it is true, do something
-                    }
-
-
-                    if (isValidForm == false){
-                        event.preventDefault();
-                    }
-                    
-            });
-
-
-            $("#btnGetValue").click(function(){
-                var selValue = $("input[name=rbg1]:checked").attr("id");
-
-                $("p").html("<b> Selected radio button is: " + selValue + '<br>');
-            });
-
-            $("#chk1").change(function(){
-                if (this.checked){
-                    $(":radio").attr("disabled", true);
-                    $("#btnGetValue").attr("disabled", true);
-                }else{
-                    $(":radio").attr("disabled", false);
-                    $("#btnGetValue").attr("disabled", false);
-                }
-            });
-
-
-        });
+    <script src='js/script.js'></script>
     
-    </script>
+    <link rel="stylesheet" href="css/accord.css">
+    <link rel="stylesheet" href="css/basics.css">
 </head>
 <body>
     <form id="myForm" name="myForm">
         <fieldset>
             <!-- <legend>Title Area</legend> -->
-            <label for="emailAddress">Enter Email:</label>
+            <label for="emailAddress">Enter Email: </label>
             <input type="email" name="emailAddress" id="emailAddress"><span>*</span>
 
         </fieldset>
         <fieldset>
             <!--<legend>Enter Phone</legend> -->
-            <label for="phoneNumber">Enter a phone number:</label>
+            <label for="phoneNumber">Phone Number: </label>
             <input type="text" name="phoneNumber" id="phoneNumber" 
                 placeholder="###-###-####"><span>*</span>
+        </fieldset>
+
+        <fieldset>
+            <!--<legend>Enter Password</legend> -->
+            <label for="password">Enter Password: </label>
+            <input type="text" name="password" id="password" placeholder="password"><span>*</span><br>
+
+            <label for="passwordConfirm">ReEnter Password: </label>
+            <input type="text" name="passwordConfirm" id="passwordConfirm" placeholder="password"><span>*</span>
+        </fieldset>
+
+        <fieldset>
+            <label for="alias">Enter Alias: </label><input type="text" name="alias" id="alias"><br>
+            <label for="occupation">Enter Occupation: </label><input type="text" name="occupation" id="occupation"><br>
+            <label for="bloodlust">Enter Bloodlust: </label><input type="text" name="bloodlust" id="bloodlust">
+        </fieldset>
+
+        <fieldset>
+            <p id="demo">Select to disable: <input type="checkbox" name="chk1" id="chk1"></p>
+            
+                <input type="radio" name="rbg1" id="rb1" value="teleportation"> Teleportation <br>
+                <input type="radio" name="rbg1" id="rb2" value="flight"> Flight <br>
+                <input type="radio" name="rbg1" id="rb3" value="super strength"> Super Strength <br>
+                <input type="button" value="Get Value" id="btnGetValue">
 
         </fieldset>
+
         <fieldset>
             <!-- <legend>Click on one of these to finish</legend> -->
             <input type="submit" value="Submit" id="btnSubmit">
             <input type="reset" value="Reset" id="btnReset">
         </fieldset>
     </form>
-
-    <input type="radio" name="rbg1" id="rb1" value="1"> Number 1 <br>
-    <input type="radio" name="rbg1" id="rb2" value="2"> Number 2 <br>
-    <input type="radio" name="rbg1" id="rb3" value="3"> Number 3 <br>
-    <input type="button" value="Get Value" id="btnGetValue">
-
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-
-    <p id="demo"></p>
-    Select to disable: <input type="checkbox" name="chk1" id="chk1">
 
 </body>
 </html>

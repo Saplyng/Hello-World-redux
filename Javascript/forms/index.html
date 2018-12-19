@@ -6,34 +6,43 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Document</title>
   <link rel="stylesheet" type="text/css" href="css/basics.css">
+  <link rel="stylesheet" type="text/css" href="css/accord.css">
   <script src="js/forms.js"></script>
 </head>
 <body>
   <div class="container">
     <div id="myform">
         <h1>Forms I Guess?</h1>
-        <h2>Lawn Cost Estimator</h2>
+        <h2>"Super" form</h2>
         <!-- assume 1 room, calculate square footage of all walls, assume 50 cents per square foot -->
         <p>Please enter the values below, then click "submit"</p>
-        <label for="frontlength">front yard length</label> <input type="text" id="frontlength"/><br/>
-        <label for="frontwidth">front yard width</label> <input type="text" id="frontwidth"/><br/>
-        <label for="backlength">back yard length</label> <input type="text" id="backlength"/><br/>
-        <label for="backwidth">back yard width</label> <input type="text" id="backwidth"/><br/>
-        <label for="sidelength">side yard length</label> <input type="text" id="sidelength"/><br/>
-        <label for="sidewidth">side yard width</label> <input type="text" id="sidewidth"/><br/>
-        <label for="sidelength2">second side yard length</label> <input type="text" id="sidelength2"/><br/>
-        <label for="sidewidth2">second side yard width</label> <input type="text" id="sidewidth2"/><br/>
-      </br/>
-      </br/>
-      </br/>
+        <label for="firstname">First Name</label> <input type="text" id="firstname"/><br/>
+        <label for="lastname">Last Name</label> <input type="text" id="lastname"/><br/>
+        <label for="alias">Alias</label> <input type="text" id="alias"/><br/>
+
+        <br>
+          <label for="superName">Super Hero</label> <input type="radio" name="super" value="hero" id="superName"/><br/>
+          <label for="superName">Super Villian</label> <input type="radio" name="super" value="villian" id="villianName"/><br/>
+        <br>
+
+        <button class="accordion">Powers</button>
+        <div class="panel">
+          <script src="js/makingAccordion.js"></script>
+          <label for="power1">Power #1</label> <input type="text" id="power1"/><br/>
+          <label for="power2">Power #2</label> <input type="text" id="power2"/><br/>
+          <label for="power3">Power #3</label> <input type="text" id="power3"/><br/>     
+        </div>
         
+      </br/>
+      </br/>        
         <input type="button" id="submit" value="Submit"/><br/>
         <p>&nbsp;</p>
-        <label for="paintingcost">Calculated cost:</label>
+        <label for="paintingcost">Output:</label>
         <input type="text" id="paintingcost"/><br/>
     </div>
 
 
 </div>
+  
 </body>
 </html>

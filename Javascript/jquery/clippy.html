@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <title>Clippy</title>
+
+    <script> 
+        $(document).ready(function(){
+            $("button").click(function(){
+                $("div").animate({
+                    height: 'toggle'
+                });
+                $("#clippy").animate({
+                    left: '250px',
+                    height: '+=150px',
+                    width: '+=150px'
+                });
+    
+            });
+        });
+  
+</script>
+</script> 
+</head>
+<body>
+    
+    <button id="clippy" float="center"><img src="img/clippy-icon.png"></button>
+    <div style="background:#F5F5F5;height:250px;width:250px;position:absolute;">
+        Hey friend! It looks like you're trying to build a harmonious and personalized relationship with a machine <br><br> Can I remind you why this is a bad idea?
+        <br>
+        <br>
+        <button id="yes">Yes</button>
+    </div>
+
+
+</body>
+</html>
