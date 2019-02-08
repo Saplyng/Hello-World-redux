@@ -1,28 +1,55 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+  <title>Test</title>
+  <style>
+        .VueCarousel-slide {
+      position: relative;
+      background: #42b983;
+      color: #fff;
+      font-family: Arial;
+      font-size: 24px;
+      text-align: center;
+      min-height: 100px;
+    }
 
-  <body>
+    .label {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+  </style>
+</head>
+<body>
+  
+  <div id="example">
 
-    <p>Click the button to demonstrate the prompt box.</p>
+  </div>
 
-    <button onclick="getResult">Try it</button>
 
-    <p id="demo"></p>
 
-    <script>
-    "use strict"
-    var getInfo = function()    {
-         grade = parseInt(prompt("What's your score on the test?"));
-         var newGrade = getResult(grade);
-         alert("Your grade, curved, is " + newGrade);
+  <script>
+    const buildSlideMarkup = (count) => {
+      let slideMarkup = 'pudding';
+      for (var i = 1; i <= count; i++) {
+        slideMarkup += '<slide><img src="https://placeholder.com/300x100" style="width: 300px; max-width: 100%;"></slide>'
+      }
+      return slideMarkup;
     };
-    var getResult = function(grade)    {
-         var newGrade = grade + 5;
-         return (newGrade);
-    };
 
-    </script>
-
-  </body>
-
+    new Vue({
+      el: '#example',
+      components: {
+        'carousel': VueCarousel.Carousel,
+        'slide': VueCarousel.Slide
+      },
+      template: '<div><carousel :scrollPerPage="true" :perPageCustom="[[480, 2], [768, 3]]">' + buildSlideMarkup(9) + '</carousel></div>'
+    });
+  </script>
+</body>
 </html>

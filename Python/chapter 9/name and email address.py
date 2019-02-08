@@ -22,7 +22,7 @@ def main():
         input_file = open("customer_file.dat", 'rb')
         customers = pickle.load(input_file)
         # print(customers)
-    except (FileNotFoundError, IOError):
+    except (IOError):
         print("file not found, please add a customer then quit to create the file")
         customers = {}
     # choice
