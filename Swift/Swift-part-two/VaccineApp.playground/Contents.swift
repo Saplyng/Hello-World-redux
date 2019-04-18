@@ -2,7 +2,7 @@ import UIKit
 
 //User input, would be controlled by a picker, and excessively formatted into the right format
 //user constants, in Year-Month-Day yyyy-MM-dd
-let dateOfBirth = "2018-1-22"
+let dateOfBirth = "2018-1-23"
 let dateOfVaccine = "2018-4-15"
 
 

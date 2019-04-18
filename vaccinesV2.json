@@ -1,0 +1,668 @@
+{
+    "Vaccine": [
+        {
+            "name" : "Recombivax HB",
+            "category": ["Hepatitis B Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Engerix-B",
+            "category": ["Hepatitis B Vaccine"],
+            "description": "Shake well before use. With thorough agitation, ENGERIX-B is a homogeneous, turbid white suspension. Do not administer if it appears otherwise. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. If either of these conditions exists, the vaccine should not be administered.For the prefilled syringes, attach a sterile needle and administer intramuscularly.For the vials, use a sterile needle and sterile syringe to withdraw the vaccine dose and administer intramuscularly. Changing needles between drawing vaccine from a vial and injecting it into a recipient is not necessary unless the needle has been damaged or contaminated. Use a separate sterile needle and syringe for each individual. ENGERIX-B should be administered by intramuscular injection. The preferred administration site is the anterolateral aspect of the thigh for infants younger than 1 year and the deltoid muscle in older children (whose deltoid is large enough for an intramuscular injection) and adults. ENGERIX-B should not be administered in the gluteal region; such injections may result in suboptimal response. ENGERIX-B may be administered subcutaneously to persons at risk of hemorrhage (e.g., hemophiliacs). However, hepatitis B vaccines administered subcutaneously are known to result in a lower antibody response. Additionally, when other aluminum-adsorbed vaccines have been administered subcutaneously, an increased incidence of local reactions including subcutaneous nodules has been observed. Therefore, subcutaneous administration should be used only in persons who are at risk of hemorrhage with intramuscular injections. Do not administer this product intravenously or intradermally. Persons from Birth through 19 YearsPrimary immunization for infants (born of hepatitis B surface antigen [ HBsAg]-negative or HBsAg-positive mothers), children (birth through 10 years), and adolescents (aged 11 through 19 years) consists of a series of 3 doses ( 0.5 mL each) given on a 0-, 1-, and 6-month schedule. Persons Aged 20 Years and OlderPrimary immunization for persons aged 20 years and older consists of a series of 3 doses ( 1 mLeach) given on a 0-, 1-, and 6-month schedule. Adults on HemodialysisPrimary immunization consists of a series of 4 doses ( 2-  mL each) given as a single 2-mL dose or two 1-mL doses on a 0-, 1-, 2-, and 6-month schedule. In hemodialysis patients, antibody response is lower than in healthy persons and protection may persist only as long as antibody levels remain above 10 mIU/mL. Therefore, the need for booster doses should be assessed by annual antibody testing. A 2-mL booster dose (as a single 2-mL dose or two 1-mL doses) should be given when antibody levels decline below 10 mIU/mL.",
+            "contraindications" : "Severe allergic reaction (e.g., anaphylaxis) after a previous dose of any hepatitis B-containing vaccine, or to any component of ENGERIX-B, including yeast. (4)"
+        },
+        {
+            "name" : "Elovac B",
+            "category": ["Hepatitis B Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Genevac B",
+            "category": ["Hepatitis B Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Shanvac B",
+            "category": ["Hepatitis B Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Heplisav-B",
+            "category": ["Hepatitis B Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Amvax B",
+            "category": ["Hepatitis B Vaccine"],
+            "description": "Injection:  Amvax-B  should  be  administered  by  intramuscular injection. Do not inject intravenously or intradermally. In adults, the injection should be given in the deltoid region but it may be preferable to inject in the anterolateral thigh in neonates and infants,. Amvax-B should not be administered in the gluteal region;(Buttock) such injections may result in suboptimal response.Amvax-B may be administered subcutaneously to personsat risk of hemorrhage (e.g., hemophiliacs). Therefore, subcutaneous administration should be used only in  persons  who  are  at  risk  of  hemorrhage  with  intramuscular injections.Preparation for Administration: Shake well before withdrawal and use. Parenteral drug products should be  inspected  visually  for  particulate  matter  or  discoloration prior to administration.Dosing Schedules: The usual immunization regimen consists of three doses of vaccine given according to the following schedule: 1st dose: at elected date; 2nd dose: 1 month after 1st dose; 3rd dose: 6 months after first dose.There is an alternate schedule with injections at 0, 1 and 2 months designed for certain populations (e.g., neonates born of hepatitis B infected mothers, others who have or might have been recently exposed to the virus,). On this alternate schedule, an additional dose at 12 months is recommended for infants born of infected mothers and for others for whom prolonged maintenance  of  protective  titers  is  desired.For hemodialysis patients, in whom vaccine-induced protection is less complete and may persist only as long as antibody levels remain above 10 mIU/mL, the need for booster doses should be assessed by annual  antibody  testing.  40  mcg  (two  -  20  mcg)  booster doses with Amvax-B should be given when antibody  levels  decline  below  10  mIU/mL.Known or presumed exposure to hepatitis B virus: Unprotected individuals with known or presumed exposure to the hepatitis B virus (e.g., neonates born of  infected  mothers,  others  experiencing  percutaneous or permucosal exposure) should be given hepatitis B immune globulin (HBIG) in addition to   Amvax-B   in   accordance   with   ACIP   recommendations and with the package insert of HBIG.",
+            "contraindications" : "Hypersensitivity to yeast or any other component of the vaccine is a contraindication for use of the vaccine. Patients experiencing hypersensitivity after Amvax-B injection should not receive further injections of Amvax-B."
+        },
+        {
+            "name" : "Bio-Hep-B",
+            "category": ["Hepatitis B Vaccine"],
+            "description": "Method of Administration: Bio-Hep-B should be injectedintramuscularly into the deltoid muscle in adults andchildren or in the anterolateral thigh in neonates, infantsand young children. The vaccine may be administeredsubcutaneously to persons who are at high risk ofhemorrhage due to thrombocytopenia or bleedingdisorders.Vaccination Schedule: The vaccination regimen for allsubjects consists of three (3) doses of vaccine givenaccording to the following schedule: first dose at electeddate; second dose 1 month after the first dose; thirddose 6 months after the first dose.Booster Dose: The duration of the protection effect ofBio-Hep-B is unknown at present. Therefore, it isrecommended to give a booster dose when the anti-HBs titer falls below 10 mIU/ml.As with all parenteral drug products, the vaccine shouldbe inspected visually for any particulate matter and/ordiscoloration prior to administration. Before use of Bio-Hep-B, the vaccine should be shaken well to obtain aslightly opaque, white suspension. Discard if the contentsof the vial appear otherwise. As with other vaccines,a dose of vaccine should be withdrawn under asepticconditions and precautions taken to avoid contaminationof the contents.",
+            "contraindications" : "Bio-Hep-B should not be administered to subjects withknown hypersensitivity to any components of the vaccineor to subjects who developed symptoms suggestive ofhypersensitivity after the injection of Bio-Hep-B.As with other vaccines, the administration of Bio-Hep-B should be postponed in subjects suffering from acutesevere illness. The presence of a minor infection, however,is not a contraindication for immunization."
+        },
+        {
+            "name" : "Fendrex",
+            "category": ["Hepatitis B Vaccine"],
+            "description": "",
+            "contraindications" : "Hypersensitivity to the active substance or to any of the excipients listed in section 6.1. Hypersensitivity after previous administration of other hepatitis B vaccines. The administration of Fendrix should be postponed in subjects suffering from acute severe febrile illness. The presence of a minor infection such as a cold, is not a contraindication for immunisation."
+        },
+        {
+            "name" : "H-B-Vax II",
+            "category": ["Hepatitis B Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "HB-Vax",
+            "category": ["Hepatitis B Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "HBvaxPRO",
+            "category": ["Hepatitis B Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Hepavax Gene",
+            "category": ["Hepatitis B Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "RotaTeq",
+            "category": ["Rotavirus Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Rotavac",
+            "category": ["Rotavirus Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Rotavin-M1",
+            "category": ["Rotavirus Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Lanzhou Lamb",
+            "category": ["Rotavirus Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Lou Te Wei",
+            "category": ["Rotavirus Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "DTaP",
+            "category": ["Dipteria, Tetanus and acellular pertussis"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Daptacel",
+            "category": ["Dipteria, Tetanus and acellular pertussis"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Infanrix",
+            "category": ["Dipteria, Tetanus and acellular pertussis"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "ACEL-IMUNE",
+            "category": ["Dipteria, Tetanus and acellular pertussis"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Certiva",
+            "category": ["Dipteria, Tetanus and acellular pertussis"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Tripedia",
+            "category": ["Dipteria, Tetanus and acellular pertussis"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "D.T COQ",
+            "category": ["Dipteria, Tetanus and acellular pertussis"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Dif per tet all",
+            "category": ["Dipteria, Tetanus and acellular pertussis"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "P.D.T. Vax Purified",
+            "category": ["Dipteria, Tetanus and acellular pertussis"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Tripacel",
+            "category": ["Dipteria, Tetanus and acellular pertussis"],
+            "description": "",
+            "contraindications" : ""
+        },        {
+            "name" : "Tripavac",
+            "category": ["Dipteria, Tetanus and acellular pertussis"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Tripvac",
+            "category": ["Dipteria, Tetanus and acellular pertussis"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "HIB",
+            "category": ["Haemophilus Influenzae type B"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "ActHIB",
+            "category": ["Haemophilus Influenzae type B"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Hiberix",
+            "category": ["Haemophilus Influenzae type B"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "PedvaxHIB",
+            "category": ["Haemophilus Influenzae type B"],
+            "description": ""
+        },
+        {
+            "name" : "HibTITER",
+            "category": ["Haemophilus Influenzae type B"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "HIBest",
+            "category": ["Haemophilus Influenzae type B"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "PCV 7",
+            "category": ["Pneumococcal"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Prevar",
+            "category": ["Pneumococcal"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Prevenar",
+            "category": ["Pneumococcal"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "PCV 13",
+            "category": ["Pneumococcal"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Prevenar 13",
+            "category": ["Pneumococcal"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Pneumovax",
+            "category": ["Pneumococcal"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Pneumovax 23",
+            "category": ["Pneumococcal"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Synflorix",
+            "category": ["Pneumococcal"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "PPV",
+            "category": ["Pneumococcal"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "IPV",
+            "category": ["Inactivated Poliovirus Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "iPol",
+            "category": ["Inactivated Poliovirus Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Imovax Polio",
+            "category": ["Inactivated Poliovirus Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Opvero",
+            "category": ["Inactivated Poliovirus Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Polio Salk (Sero)",
+            "category": ["Inactivated Poliovirus Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Polio Sabin One and Three",
+            "category": ["Inactivated Poliovirus Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Flu",
+            "category": ["Influenza Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Afluria",
+            "category": ["Influenza Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Fluad",
+            "category": ["Influenza Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Fluarix",
+            "category": ["Influenza Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Flublok",
+            "category": ["Influenza Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Flucelvax",
+            "category": ["Influenza Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "FluLaval",
+            "category": ["Influenza Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "FluMist",
+            "category": ["Influenza Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Fluvirin",
+            "category": ["Influenza Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Fluzone",
+            "category": ["Influenza Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Fluzone-High-Dose",
+            "category": ["Influenza Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Fluzone Intradermal",
+            "category": ["Influenza Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Agriflu",
+            "category": ["Influenza Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "IIV3",
+            "category": ["Influenza Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "IIV4",
+            "category": ["Influenza Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "RIV3",
+            "category": ["Influenza Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "ccIIV4",
+            "category": ["Influenza Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "MMR",
+            "category": ["Measles, Mumps, and rubella"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "M-M-R II",
+            "category": ["Measles, Mumps, and rubella"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "ProQuad",
+            "category": ["Measles, Mumps, and rubella"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "M-M-R Vax",
+            "category": ["Measles, Mumps, and rubella"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "M-M-R Vaxpro",
+            "category": ["Measles, Mumps, and rubella"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Morupar",
+            "category": ["Measles, Mumps, and rubella"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Mumeru Vax",
+            "category": ["Measles, Mumps, and rubella"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Pluserix",
+            "category": ["Measles, Mumps, and rubella"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Priorix",
+            "category": ["Measles, Mumps, and rubella"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Prioryks",
+            "category": ["Measles, Mumps, and rubella"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Prioryks",
+            "category": ["Measles, Mumps, and rubella"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "ROR Vax",
+            "category": ["Measles, Mumps, and rubella"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Trimovax",
+            "category": ["Measles, Mumps, and rubella"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Triviraten Berna",
+            "category": ["Measles, Mumps, and rubella"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "VAR",
+            "category": ["Varicella Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Varivax",
+            "category": ["Varicella Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Okavax",
+            "category": ["Varicella Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Vaccin Varilrix",
+            "category": ["Varicella Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Varicela Biken",
+            "category": ["Varicella Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Varcelvax",
+            "category": ["Varicella Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Varipox",
+            "category": ["Varicella Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Varivax III",
+            "category": ["Varicella Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "V-Z Vax",
+            "category": ["Varicella Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Havrix",
+            "category": ["Hepatitis A Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Vaqta",
+            "category": ["Hepatitis A Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Avaxim",
+            "category": ["Hepatitis A Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Epaxal",
+            "category": ["Hepatitis A Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "HAVpur",
+            "category": ["Hepatitis A Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Havrix 1440",
+            "category": ["Hepatitis A Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Havrix Junior",
+            "category": ["Hepatitis A Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Havrix Monodose",
+            "category": ["Hepatitis A Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Havryks",
+            "category": ["Hepatitis A Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Menvac-A",
+            "category": ["Hepatitis A Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Menveo",
+            "category": ["Meningococcal ACWY Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Menactra",
+            "category": ["Meningococcal ACWY Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Menacttra",
+            "category": ["Meningococcal ACWY Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Bexsero",
+            "category": ["Meningococcal B Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Truemenba",
+            "category": ["Meningococcal B Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Adacel",
+            "category": ["Tdap"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Boostrix",
+            "category": ["Tdap"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Gardasil",
+            "category": ["Human Papillomavirus Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Cevarix",
+            "category": ["Human Papillomavirus Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        },
+        {
+            "name" : "Gardasil 9",
+            "category": ["Human Papillomavirus Vaccine"],
+            "description": "",
+            "contraindications" : ""
+        }
+    ]
+}
