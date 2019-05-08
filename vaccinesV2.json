@@ -3,666 +3,777 @@
         {
             "name" : "Recombivax HB",
             "category": ["Hepatitis B Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "Persons from birth through 19 years of age: A series of 3 doses (0.5 mL each) given on a 0-, 1-, and 6-month schedule. Adolescents 11 through 15 years of age: A series of 3 doses (0.5 mL each) given on a 0-, 1-, and 6-month scheduleor a series of 2 doses (1.0 mL each) on a 0- and 4- to 6-month schedule.Persons 20 years of age and older: A series of 3 doses (1.0 mL each) given on a0-, 1-, and 6-month schedule.",
+            "contraindications" : "Do not administer RECOMBIVAX HB to individuals with a history of severe allergic or hypersensitivity reactions (e.g.,  anaphylaxis) after  a  previous dose of  any  hepatitis B-containingvaccine or  to  any component of RECOMBIVAX HB, including yeast",
+            "pdf" : "https://www.merck.com/product/usa/pi_circulars/r/recombivax_hb/recombivax_pi.pdf"
         },
         {
             "name" : "Engerix-B",
             "category": ["Hepatitis B Vaccine"],
-            "description": "Shake well before use. With thorough agitation, ENGERIX-B is a homogeneous, turbid white suspension. Do not administer if it appears otherwise. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. If either of these conditions exists, the vaccine should not be administered.For the prefilled syringes, attach a sterile needle and administer intramuscularly.For the vials, use a sterile needle and sterile syringe to withdraw the vaccine dose and administer intramuscularly. Changing needles between drawing vaccine from a vial and injecting it into a recipient is not necessary unless the needle has been damaged or contaminated. Use a separate sterile needle and syringe for each individual. ENGERIX-B should be administered by intramuscular injection. The preferred administration site is the anterolateral aspect of the thigh for infants younger than 1 year and the deltoid muscle in older children (whose deltoid is large enough for an intramuscular injection) and adults. ENGERIX-B should not be administered in the gluteal region; such injections may result in suboptimal response. ENGERIX-B may be administered subcutaneously to persons at risk of hemorrhage (e.g., hemophiliacs). However, hepatitis B vaccines administered subcutaneously are known to result in a lower antibody response. Additionally, when other aluminum-adsorbed vaccines have been administered subcutaneously, an increased incidence of local reactions including subcutaneous nodules has been observed. Therefore, subcutaneous administration should be used only in persons who are at risk of hemorrhage with intramuscular injections. Do not administer this product intravenously or intradermally. Persons from Birth through 19 YearsPrimary immunization for infants (born of hepatitis B surface antigen [ HBsAg]-negative or HBsAg-positive mothers), children (birth through 10 years), and adolescents (aged 11 through 19 years) consists of a series of 3 doses ( 0.5 mL each) given on a 0-, 1-, and 6-month schedule. Persons Aged 20 Years and OlderPrimary immunization for persons aged 20 years and older consists of a series of 3 doses ( 1 mLeach) given on a 0-, 1-, and 6-month schedule. Adults on HemodialysisPrimary immunization consists of a series of 4 doses ( 2-  mL each) given as a single 2-mL dose or two 1-mL doses on a 0-, 1-, 2-, and 6-month schedule. In hemodialysis patients, antibody response is lower than in healthy persons and protection may persist only as long as antibody levels remain above 10 mIU/mL. Therefore, the need for booster doses should be assessed by annual antibody testing. A 2-mL booster dose (as a single 2-mL dose or two 1-mL doses) should be given when antibody levels decline below 10 mIU/mL.",
-            "contraindications" : "Severe allergic reaction (e.g., anaphylaxis) after a previous dose of any hepatitis B-containing vaccine, or to any component of ENGERIX-B, including yeast. (4)"
+            "administration": "Shake well before use. With thorough agitation, ENGERIX-B is a homogeneous, turbid white suspension. Do not administer if it appears otherwise. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. If either of these conditions exists, the vaccine should not be administered.For the prefilled syringes, attach a sterile needle and administer intramuscularly.For the vials, use a sterile needle and sterile syringe to withdraw the vaccine dose and administer intramuscularly. Changing needles between drawing vaccine from a vial and injecting it into a recipient is not necessary unless the needle has been damaged or contaminated. Use a separate sterile needle and syringe for each individual. ENGERIX-B should be administered by intramuscular injection. The preferred administration site is the anterolateral aspect of the thigh for infants younger than 1 year and the deltoid muscle in older children (whose deltoid is large enough for an intramuscular injection) and adults. ENGERIX-B should not be administered in the gluteal region; such injections may result in suboptimal response. ENGERIX-B may be administered subcutaneously to persons at risk of hemorrhage (e.g., hemophiliacs). However, hepatitis B vaccines administered subcutaneously are known to result in a lower antibody response. Additionally, when other aluminum-adsorbed vaccines have been administered subcutaneously, an increased incidence of local reactions including subcutaneous nodules has been observed. Therefore, subcutaneous administration should be used only in persons who are at risk of hemorrhage with intramuscular injections. Do not administer this product intravenously or intradermally. Persons from Birth through 19 YearsPrimary immunization for infants (born of hepatitis B surface antigen [ HBsAg]-negative or HBsAg-positive mothers), children (birth through 10 years), and adolescents (aged 11 through 19 years) consists of a series of 3 doses ( 0.5 mL each) given on a 0-, 1-, and 6-month schedule. Persons Aged 20 Years and OlderPrimary immunization for persons aged 20 years and older consists of a series of 3 doses ( 1 mLeach) given on a 0-, 1-, and 6-month schedule. Adults on HemodialysisPrimary immunization consists of a series of 4 doses ( 2-  mL each) given as a single 2-mL dose or two 1-mL doses on a 0-, 1-, 2-, and 6-month schedule. In hemodialysis patients, antibody response is lower than in healthy persons and protection may persist only as long as antibody levels remain above 10 mIU/mL. Therefore, the need for booster doses should be assessed by annual antibody testing. A 2-mL booster dose (as a single 2-mL dose or two 1-mL doses) should be given when antibody levels decline below 10 mIU/mL.",
+            "contraindications" : "Severe allergic reaction (e.g., anaphylaxis) after a previous dose of any hepatitis B-containing vaccine, or to any component of ENGERIX-B, including yeast. (4)",
+            "pdf" : "https://www.fda.gov/downloads/biologicsbloodvaccines/vaccines/approvedproducts/ucm224503.pdf"
         },
         {
             "name" : "Elovac B",
             "category": ["Hepatitis B Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "NEONATES AND CHILDREN TILL THE AGE OF 19 YEARS:The recommended dose of  Elovac-B®  is 10mcg of antigen protein in 0.5ml suspension.-    ADULT OVER THE AGE OF 19 YEARS:The recommended dose of  Elovac-B®  is 20mcg of antigen protein in 1ml suspension.-    Elovac-B® SHOULD NEVER BE GIVEN INTRAVENOUSLY.-    Elovac-B®  Should be injected intramuscularly in the anterolateral thigh for neonates and infants.-    Elovac-B®  should be intramuscularly in the deltoid for adults.-    Elovac-B®   should be not be administered in the gluteal region as the immuneresponse may be lower.-    Elovac-B®   may be administered subcutaneously in patients with severe bleeding tendencies (e.g. haemophilics).",
+            "contraindications" : "Elovac-B®   Should not be administered to any person who has experienced a hyper-sensitivity reaction to any component of any Hepatitis B recombinant DNA vaccine.Elovac-B®   Should not be administered to subjects with severe febrile infections.",
+            "pdf" : "http://www.indimmune.com/wp-content/uploads/2013/12/Elovac-b.pdf"
         },
         {
             "name" : "Genevac B",
             "category": ["Hepatitis B Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "Pediatric dose vaccine: 10 mcg dose (in 0.5 ml suspension) is recommended for neonates, infants, children and adolescents upto 19 years of age. Adult dose vaccine: 20 mcg dose (1.0 ml suspension) is recommended for adults aged 20 years and above A series of 3 shots can prevent this serious disease 6, 10, 14 weeks for infants 0, 1, 6 months for children, adolescents and adults 0, 1, 2 months (for rapid protection)",
+            "contraindications" : "could not find contraindictions",
+            "pdf" : ""
         },
         {
             "name" : "Shanvac B",
             "category": ["Hepatitis B Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "Schedule A1st doseAt an elected date2nd dose1 month after the 1st dose3rd dose2 months after the 1st doseA booster dose is recommended 12 months after the 1st dose.A second booster dose may be required after 8 years if the titre fallsbelow 10 mIU/mL. Schedule B1st doseAt an elected date2nd dose1 month after the 1st dose3rd dose6 months after the 1st doseA booster dose may be required after 8-10years if the titre falls below 10 mIU/ mL",
+            "contraindications" : "Shanvac®-B should  not  be  administered  to•Subjects  who  are  hypersensitive  to  any  component  of  the  vaccine  or  to  subjects  who  have  shown  signs  of  hypersensitivity  after  previous  Shanvac®-B  vaccination.•Subjects  with  severe  febrile  infections.•The vaccine will not harm individuals currently or previously  infected with the HB virus. Individuals infected with humanimmunodeficiency  virus  (HIV)  both  asymptomatic  and    symptomatic,  should  be  immunized  with  hepatitis  B  vaccineaccording to standard schedules.",
+            "pdf" : "https://www.who.int/immunization_standards/vaccine_quality/155_hepb.pdf?ua=1"
         },
         {
             "name" : "Heplisav-B",
             "category": ["Hepatitis B Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "HEPLISAV-B is  a    clear to  slightly opalescent, colorless to  slightly yellow solution.Parenteral drug products should be inspected visually for particulate matter and discoloration prior toadministration, whenever solution and container permit. If    either of these conditions exists, the vaccineshould not be administered.Administer HEPLISAV-B by intramuscular injection in  the deltoid region using a    sterile needle andsyringe.",
+            "contraindications" : "Do not administer HEPLISAV-B to  individuals with a    history of severe allergic reaction (e.g. anaphylaxis)after a    previous dose of any hepatitis B vaccine or to  any component of HEPLISAV-B, including yeast",
+            "pdf" : "https://www.fda.gov/downloads/biologicsbloodvaccines/vaccines/approvedproducts/ucm584762.pdf"
         },
         {
             "name" : "Amvax B",
             "category": ["Hepatitis B Vaccine"],
-            "description": "Injection:  Amvax-B  should  be  administered  by  intramuscular injection. Do not inject intravenously or intradermally. In adults, the injection should be given in the deltoid region but it may be preferable to inject in the anterolateral thigh in neonates and infants,. Amvax-B should not be administered in the gluteal region;(Buttock) such injections may result in suboptimal response.Amvax-B may be administered subcutaneously to personsat risk of hemorrhage (e.g., hemophiliacs). Therefore, subcutaneous administration should be used only in  persons  who  are  at  risk  of  hemorrhage  with  intramuscular injections.Preparation for Administration: Shake well before withdrawal and use. Parenteral drug products should be  inspected  visually  for  particulate  matter  or  discoloration prior to administration.Dosing Schedules: The usual immunization regimen consists of three doses of vaccine given according to the following schedule: 1st dose: at elected date; 2nd dose: 1 month after 1st dose; 3rd dose: 6 months after first dose.There is an alternate schedule with injections at 0, 1 and 2 months designed for certain populations (e.g., neonates born of hepatitis B infected mothers, others who have or might have been recently exposed to the virus,). On this alternate schedule, an additional dose at 12 months is recommended for infants born of infected mothers and for others for whom prolonged maintenance  of  protective  titers  is  desired.For hemodialysis patients, in whom vaccine-induced protection is less complete and may persist only as long as antibody levels remain above 10 mIU/mL, the need for booster doses should be assessed by annual  antibody  testing.  40  mcg  (two  -  20  mcg)  booster doses with Amvax-B should be given when antibody  levels  decline  below  10  mIU/mL.Known or presumed exposure to hepatitis B virus: Unprotected individuals with known or presumed exposure to the hepatitis B virus (e.g., neonates born of  infected  mothers,  others  experiencing  percutaneous or permucosal exposure) should be given hepatitis B immune globulin (HBIG) in addition to   Amvax-B   in   accordance   with   ACIP   recommendations and with the package insert of HBIG.",
-            "contraindications" : "Hypersensitivity to yeast or any other component of the vaccine is a contraindication for use of the vaccine. Patients experiencing hypersensitivity after Amvax-B injection should not receive further injections of Amvax-B."
+            "administration": "Injection:  Amvax-B  should  be  administered  by  intramuscular injection. Do not inject intravenously or intradermally. In adults, the injection should be given in the deltoid region but it may be preferable to inject in the anterolateral thigh in neonates and infants,. Amvax-B should not be administered in the gluteal region;(Buttock) such injections may result in suboptimal response.Amvax-B may be administered subcutaneously to personsat risk of hemorrhage (e.g., hemophiliacs). Therefore, subcutaneous administration should be used only in  persons  who  are  at  risk  of  hemorrhage  with  intramuscular injections.Preparation for Administration: Shake well before withdrawal and use. Parenteral drug products should be  inspected  visually  for  particulate  matter  or  discoloration prior to administration.Dosing Schedules: The usual immunization regimen consists of three doses of vaccine given according to the following schedule: 1st dose: at elected date; 2nd dose: 1 month after 1st dose; 3rd dose: 6 months after first dose.There is an alternate schedule with injections at 0, 1 and 2 months designed for certain populations (e.g., neonates born of hepatitis B infected mothers, others who have or might have been recently exposed to the virus,). On this alternate schedule, an additional dose at 12 months is recommended for infants born of infected mothers and for others for whom prolonged maintenance  of  protective  titers  is  desired.For hemodialysis patients, in whom vaccine-induced protection is less complete and may persist only as long as antibody levels remain above 10 mIU/mL, the need for booster doses should be assessed by annual  antibody  testing.  40  mcg  (two  -  20  mcg)  booster doses with Amvax-B should be given when antibody  levels  decline  below  10  mIU/mL.Known or presumed exposure to hepatitis B virus: Unprotected individuals with known or presumed exposure to the hepatitis B virus (e.g., neonates born of  infected  mothers,  others  experiencing  percutaneous or permucosal exposure) should be given hepatitis B immune globulin (HBIG) in addition to   Amvax-B   in   accordance   with   ACIP   recommendations and with the package insert of HBIG.",
+            "contraindications" : "Hypersensitivity to yeast or any other component of the vaccine is a contraindication for use of the vaccine. Patients experiencing hypersensitivity after Amvax-B injection should not receive further injections of Amvax-B.",
+            "pdf" : "http://www.amson.org.pk/AmvaxB.pdf"
         },
         {
             "name" : "Bio-Hep-B",
             "category": ["Hepatitis B Vaccine"],
-            "description": "Method of Administration: Bio-Hep-B should be injectedintramuscularly into the deltoid muscle in adults andchildren or in the anterolateral thigh in neonates, infantsand young children. The vaccine may be administeredsubcutaneously to persons who are at high risk ofhemorrhage due to thrombocytopenia or bleedingdisorders.Vaccination Schedule: The vaccination regimen for allsubjects consists of three (3) doses of vaccine givenaccording to the following schedule: first dose at electeddate; second dose 1 month after the first dose; thirddose 6 months after the first dose.Booster Dose: The duration of the protection effect ofBio-Hep-B is unknown at present. Therefore, it isrecommended to give a booster dose when the anti-HBs titer falls below 10 mIU/ml.As with all parenteral drug products, the vaccine shouldbe inspected visually for any particulate matter and/ordiscoloration prior to administration. Before use of Bio-Hep-B, the vaccine should be shaken well to obtain aslightly opaque, white suspension. Discard if the contentsof the vial appear otherwise. As with other vaccines,a dose of vaccine should be withdrawn under asepticconditions and precautions taken to avoid contaminationof the contents.",
-            "contraindications" : "Bio-Hep-B should not be administered to subjects withknown hypersensitivity to any components of the vaccineor to subjects who developed symptoms suggestive ofhypersensitivity after the injection of Bio-Hep-B.As with other vaccines, the administration of Bio-Hep-B should be postponed in subjects suffering from acutesevere illness. The presence of a minor infection, however,is not a contraindication for immunization."
+            "administration": "Method of Administration: Bio-Hep-B should be injectedintramuscularly into the deltoid muscle in adults andchildren or in the anterolateral thigh in neonates, infantsand young children. The vaccine may be administeredsubcutaneously to persons who are at high risk ofhemorrhage due to thrombocytopenia or bleedingdisorders.Vaccination Schedule: The vaccination regimen for allsubjects consists of three (3) doses of vaccine givenaccording to the following schedule: first dose at electeddate; second dose 1 month after the first dose; thirddose 6 months after the first dose.Booster Dose: The duration of the protection effect ofBio-Hep-B is unknown at present. Therefore, it isrecommended to give a booster dose when the anti-HBs titer falls below 10 mIU/ml.As with all parenteral drug products, the vaccine shouldbe inspected visually for any particulate matter and/ordiscoloration prior to administration. Before use of Bio-Hep-B, the vaccine should be shaken well to obtain aslightly opaque, white suspension. Discard if the contentsof the vial appear otherwise. As with other vaccines,a dose of vaccine should be withdrawn under asepticconditions and precautions taken to avoid contaminationof the contents.",
+            "contraindications" : "Bio-Hep-B should not be administered to subjects withknown hypersensitivity to any components of the vaccineor to subjects who developed symptoms suggestive ofhypersensitivity after the injection of Bio-Hep-B.As with other vaccines, the administration of Bio-Hep-B should be postponed in subjects suffering from acutesevere illness. The presence of a minor infection, however,is not a contraindication for immunization.",
+            "pdf" : "http://novaccine.com/wp-content/uploads/2014/02/BIO-HEP-B-package_insert.pdf"
         },
         {
             "name" : "Fendrex",
             "category": ["Hepatitis B Vaccine"],
-            "description": "",
-            "contraindications" : "Hypersensitivity to the active substance or to any of the excipients listed in section 6.1. Hypersensitivity after previous administration of other hepatitis B vaccines. The administration of Fendrix should be postponed in subjects suffering from acute severe febrile illness. The presence of a minor infection such as a cold, is not a contraindication for immunisation."
+            "administration": "You will have a series of four injections.•The injections will be given within 6 months:-First injection - on a date agreed with your doctor.-Second injection  - 1 month after the first injection.-Third injection  - 2 months after the first injection.-Fourth injection- 6 months after the first injection.•The doctor or nurse will tell you when you should come back for the next injections.•Once you have had the first injection of Fendrix, the next injections need also to be Fendrix (not another sort of hepatitis B vaccine).Your doctor will tell you if you need any extra or “booster” injections in the future. Fendrix can also be used as a booster after a course of a different type of hepatitis B vaccine.If you miss a dose•If you miss an injection, talk to your doctor and arrange another visit.•Make sure you finish the complete course of four injections. If not, you may not be fully protected against the disease.",
+            "contraindications" : "Hypersensitivity to the active substance or to any of the excipients listed in section 6.1. Hypersensitivity after previous administration of other hepatitis B vaccines. The administration of Fendrix should be postponed in subjects suffering from acute severe febrile illness. The presence of a minor infection such as a cold, is not a contraindication for immunisation.",
+            "pdf" : "https://www.ema.europa.eu/en/documents/product-information/fendrix-epar-product-information_en.pdf"
         },
         {
             "name" : "H-B-Vax II",
             "category": ["Hepatitis B Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "DO NOT INJECT INTRAVENOUSLY OR INTRADERMALLY.H-B-VAX II is for intramuscular injection. The deltoid muscle is the preferred site for intramuscular injection in adults. Data suggest that injections given in the buttocks are frequently given into fatty tissue instead of into muscle. Such injections have resulted in a lower seroconversion rate than was expected. The anterolateral thigh is the recommended site for intramuscular injection in infants and young children.As the plasma derived vaccine has been shown to be immunogenic by the subcutaneous route, H-B-VAX II may also be administered subcutaneously to persons at risk of haemorrhage following intramuscular injections. However, when other aluminium-adsorbed vaccines have been administered subcutaneously, an increased incidence of local reactions including subcutaneous nodules has been observed. Therefore, subcutaneous administration should be used only in persons (e.g., haemophiliacs) at risk of haemorrhage following intramuscular injections.Shake well before withdrawal and use. Thorough agitation at the time of administration is necessary to maintain suspension of the vaccine.The vaccine should be used as supplied; no dilution or reconstitution is necessary. The full recommended dose of the vaccine should be used.It is important to use a separate sterile syringe and needle for each individual patient to prevent transmission of hepatitis and other infectious agents from one person to another.Parenteral drug products should be inspected visually for particulate matter and discolouration prior to administration. After thorough agitation, H-B-VAX II is a slightly opaque, white suspension.This product is for one dose in one patient only. Once the single-dose vial has been penetrated, the withdrawn vaccine should be used promptly, and the vial and residue must be discarded.The immunisation regimen consists of three doses of vaccine given according to the following schedule:1st Doseat elected date2nd Doseone month later3rd Dosesix months after the first dose Two-Dose  Regimen  -  Adolescents  (11-15  years  of  age).  An  alternate  two-dose  regimen  is  available for routine vaccination of adolescents (11-15 years of age). The regimen consists of two doses of vaccine (10 μg) given according to the following schedule:1st Doseat elected date2nd Dosefour -sixmonths laterThe formulation, dose and regimen of H-B-VAX II for specific populations is as follows:GroupFormulationRegimen*Infants Children (0-10 years)Paediatric3 x 5 μgChildren and Adolescents(11 - 19 years)Paediatric3 x 5 μgAdolescents (11-15 years)Adult2 x 10 μgAdultsAdult3 x 10 μgAdultDialysis & Pre-Dialysis PatientsDialysis3 x 40 μg* The appropriate dosage can be achieved from another formulation provided that the total volume of vaccine administered does not exceed 1.0 mL. However the 40 μg/1.0 mL can be used only for adult predialysis/ dialysis patients.Adolescents (11 to 15 years of age) may receive either the 3x5 μg or the 2x10 μg regimen.",
+            "contraindications" : "Hypersensitivity to any component of the vaccine.Hypersensitivity to yeast (Saccharomyces cerevisiae). Patients who develop symptoms suggestive of hypersensitivity after an injection should not receive further injections of H-B-VAX II.",
+            "pdf" : "https://www.adelaide.edu.au/trials/starss/docs/hb-vax-2-cmi.pdf"
         },
         {
             "name" : "HB-Vax",
             "category": ["Hepatitis B Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "No information found, found in Qatar and United Arab Emirates",
+            "contraindications" : "No information found",
+            "pdf" : ""
         },
         {
             "name" : "HBvaxPRO",
             "category": ["Hepatitis B Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "The recommended dose for each injection (0.5ml) is 5micrograms for individuals from birth through15 years of age.A course of vaccination should include at least three injections.Two immunisation schedules can be recommended:-   two injections with an interval of one month followed by a third injection 6 months after the first administration (0,1,6 months).-   if immunity is needed quickly: three injections with an interval of one month and a fourth dose 1 year later (0,1,2,12 months).In case of a recent exposure to the hepatitis B virus, a first dose of HBVAXPRO together with the appropriate dose of immunoglobulin can be given.Some local vaccination schedules currently include recommendations for a booster dose. Your doctor, pharmacistor nursewill inform you if a booster dose should be given.",
+            "contraindications" : "story of hypersensitivity to the active substance, or to any of the excipients, or trace residuals (e.g. formaldehyde and potassium thiocyanate), see sections6.1 and 2. Vaccination should be postponed in individuals with a severe febrile illness or acute infection.",
+            "pdf" : "https://www.medicines.org.uk/emc/files/pil.1684.pdf"
         },
         {
             "name" : "Hepavax Gene",
             "category": ["Hepatitis B Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "There are multiple options for administration of the hepatitis B vaccine and guidelines of the nation immunization programme should be consulted. the choice of scheule should depend on national policy which is based on the local epidemiological siuation and programmtic considerations. The minimum recomended interval between the doses is four weeks. Longer dose intervals may increase the final anti-HB titres but not the seroconversion rates. More than 3 does of the vaccine are not required, regardless of duration (>4 weeks) of the interval between them. Recommended schedules for vaccination can be divided into those that include a birth-dose and those that do not. Schedules with a birth-dose call for the first vaccination at birth (within 24 hours), followed by a second and third dose at the time of the first and third diptheria-tetanus-pertussis (DTP) vaccination, respectively. Alternatively, a four-dose schedule may be used where the dose at birth is followed by three additional doses; theses doses may be given either as monovalent vaccine or as a combination (e.g. with DTP and/or Hib) following the schedules commonly used for those vaccines. These schedules will prevent most perinatally acquired infection. Hepatitis B vaccine can be given safely and effectively at the same time as BCG, DTP, measles, polio (OPV or IPV), Haemophilus influenzae type be, or yellow fever vaccines or vitamin A supplementation. If hepatitis B vaccine is given at the same time as other vaccines, it should be administered at a seperate site. It should not be mixed in the vial or syringe with any other vaccine unless it is licensed for use as a combined product",
+            "contraindications" : "KNown hypersensitiviity to any component of the vaccine, or a severe reaction to a previous dose. The vaccine will not harm individuals currently or previously infected with hepatitis B virus",
+            "pdf" : "https://www.who.int/immunization_standards/vaccine_quality/04_hepb_1dose_berna_insert_english.pdf?ua=1"
         },
         {
             "name" : "RotaTeq",
             "category": ["Rotavirus Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Rotavac",
             "category": ["Rotavirus Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Rotavin-M1",
             "category": ["Rotavirus Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Lanzhou Lamb",
             "category": ["Rotavirus Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Lou Te Wei",
             "category": ["Rotavirus Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "DTaP",
             "category": ["Dipteria, Tetanus and acellular pertussis"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Daptacel",
             "category": ["Dipteria, Tetanus and acellular pertussis"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Infanrix",
             "category": ["Dipteria, Tetanus and acellular pertussis"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "ACEL-IMUNE",
             "category": ["Dipteria, Tetanus and acellular pertussis"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Certiva",
             "category": ["Dipteria, Tetanus and acellular pertussis"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Tripedia",
             "category": ["Dipteria, Tetanus and acellular pertussis"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "D.T COQ",
             "category": ["Dipteria, Tetanus and acellular pertussis"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Dif per tet all",
             "category": ["Dipteria, Tetanus and acellular pertussis"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "P.D.T. Vax Purified",
             "category": ["Dipteria, Tetanus and acellular pertussis"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Tripacel",
             "category": ["Dipteria, Tetanus and acellular pertussis"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },        {
             "name" : "Tripavac",
             "category": ["Dipteria, Tetanus and acellular pertussis"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Tripvac",
             "category": ["Dipteria, Tetanus and acellular pertussis"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "HIB",
             "category": ["Haemophilus Influenzae type B"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "ActHIB",
             "category": ["Haemophilus Influenzae type B"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Hiberix",
             "category": ["Haemophilus Influenzae type B"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "PedvaxHIB",
             "category": ["Haemophilus Influenzae type B"],
-            "description": ""
+            "administration": "",
+            "pdf" : ""
         },
         {
             "name" : "HibTITER",
             "category": ["Haemophilus Influenzae type B"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "HIBest",
             "category": ["Haemophilus Influenzae type B"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "PCV 7",
             "category": ["Pneumococcal"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Prevar",
             "category": ["Pneumococcal"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "Children 6 weeks through 5 years: The four-dose immunization series consists of a 0.5 mL intramuscular injection administered at 2, 4, 6, and 12-15 months of age. Children 6 through 17 years of age: a single dose. Adults 18 years and older: a single dose.",
+            "contraindications" : "Severe allergic reaction (e.g., anaphylaxis) to any component of Prevnar 13 or any diphtheria toxoid-containing vaccine.",
+            "pdf" : ""
         },
         {
             "name" : "Prevenar",
             "category": ["Pneumococcal"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "Children 6 weeks through 5 years: The four-dose immunization series consists of a 0.5 mL intramuscular injection administered at 2, 4, 6, and 12-15 months of age. Children 6 through 17 years of age: a single dose. Adults 18 years and older: a single dose.",
+            "contraindications" : "Severe allergic reaction (e.g., anaphylaxis) to any component of Prevnar 13 or any diphtheria toxoid-containing vaccine.",
+            "pdf" : ""
         },
         {
             "name" : "PCV 13",
             "category": ["Pneumococcal"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "Children 6 weeks through 5 years: The four-dose immunization series consists of a 0.5 mL intramuscular injection administered at 2, 4, 6, and 12-15 months of age. Children 6 through 17 years of age: a single dose. Adults 18 years and older: a single dose.",
+            "contraindications" : "Severe allergic reaction (e.g., anaphylaxis) to any component of Prevnar 13 or any diphtheria toxoid-containing vaccine.",
+            "pdf" : ""
         },
         {
             "name" : "Prevenar 13",
             "category": ["Pneumococcal"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "Children 6 weeks through 5 years: The four-dose immunization series consists of a 0.5 mL intramuscular injection administered at 2, 4, 6, and 12-15 months of age. Children 6 through 17 years of age: a single dose. Adults 18 years and older: a single dose.",
+            "contraindications" : "Severe allergic reaction (e.g., anaphylaxis) to any component of Prevnar 13 or any diphtheria toxoid-containing vaccine.",
+            "pdf" : ""
         },
         {
             "name" : "Pneumovax",
             "category": ["Pneumococcal"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Pneumovax 23",
             "category": ["Pneumococcal"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "Single  0.5-mL  dose  of  PNEUMOVAX  23  administered  intramuscularly  or subcutaneously only.",
+            "contraindications" : "Severe  allergic  reaction  (e.g.,  anaphylaxis)  to  any  component  of  PNEUMOVAX 23.",
+            "pdf" : ""
         },
         {
             "name" : "Synflorix",
             "category": ["Pneumococcal"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "SYNFLORIX should be given by intramuscular injection.  The preferred sites are anterolateral aspect of the thigh in infants or the deltoid muscle of the upper arm in children.A fine white deposit with a clear colourless supernatant may be observed upon storage of the syringe/vial. This does not constitute a sign of deterioration.The content of the syringe/vial should be inspected visually both before and after shaking for any foreign particulate matter and/or abnormal physical appearance prior to administration.  In the event ofeither being observed, discard the vaccine.Shake well before use.Any unused product or waste material should be disposed of in accordance with local requirements.",
+            "contraindications" : "SYNFLORIX should not be administered to subjects with known hypersensitivity to any component of the vaccine.",
+            "pdf" : ""
         },
         {
             "name" : "PPV",
             "category": ["Pneumococcal"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "IPV",
             "category": ["Inactivated Poliovirus Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "iPol",
             "category": ["Inactivated Poliovirus Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Imovax Polio",
             "category": ["Inactivated Poliovirus Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Opvero",
             "category": ["Inactivated Poliovirus Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Polio Salk (Sero)",
             "category": ["Inactivated Poliovirus Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Polio Sabin One and Three",
             "category": ["Inactivated Poliovirus Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Flu",
             "category": ["Influenza Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Afluria",
             "category": ["Influenza Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Fluad",
             "category": ["Influenza Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Fluarix",
             "category": ["Influenza Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Flublok",
             "category": ["Influenza Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Flucelvax",
             "category": ["Influenza Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "FluLaval",
             "category": ["Influenza Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "FluMist",
             "category": ["Influenza Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Fluvirin",
             "category": ["Influenza Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Fluzone",
             "category": ["Influenza Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Fluzone-High-Dose",
             "category": ["Influenza Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Fluzone Intradermal",
             "category": ["Influenza Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Agriflu",
             "category": ["Influenza Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "IIV3",
             "category": ["Influenza Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "IIV4",
             "category": ["Influenza Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "RIV3",
             "category": ["Influenza Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "ccIIV4",
             "category": ["Influenza Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "MMR",
             "category": ["Measles, Mumps, and rubella"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "M-M-R II",
             "category": ["Measles, Mumps, and rubella"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "ProQuad",
             "category": ["Measles, Mumps, and rubella"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "M-M-R Vax",
             "category": ["Measles, Mumps, and rubella"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "M-M-R Vaxpro",
             "category": ["Measles, Mumps, and rubella"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Morupar",
             "category": ["Measles, Mumps, and rubella"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Mumeru Vax",
             "category": ["Measles, Mumps, and rubella"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Pluserix",
             "category": ["Measles, Mumps, and rubella"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Priorix",
             "category": ["Measles, Mumps, and rubella"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Prioryks",
             "category": ["Measles, Mumps, and rubella"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Prioryks",
             "category": ["Measles, Mumps, and rubella"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "ROR Vax",
             "category": ["Measles, Mumps, and rubella"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Trimovax",
             "category": ["Measles, Mumps, and rubella"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Triviraten Berna",
             "category": ["Measles, Mumps, and rubella"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "VAR",
             "category": ["Varicella Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Varivax",
             "category": ["Varicella Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Okavax",
             "category": ["Varicella Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Vaccin Varilrix",
             "category": ["Varicella Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Varicela Biken",
             "category": ["Varicella Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Varcelvax",
             "category": ["Varicella Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Varipox",
             "category": ["Varicella Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Varivax III",
             "category": ["Varicella Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "V-Z Vax",
             "category": ["Varicella Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Havrix",
             "category": ["Hepatitis A Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Vaqta",
             "category": ["Hepatitis A Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Avaxim",
             "category": ["Hepatitis A Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Epaxal",
             "category": ["Hepatitis A Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "HAVpur",
             "category": ["Hepatitis A Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Havrix 1440",
             "category": ["Hepatitis A Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Havrix Junior",
             "category": ["Hepatitis A Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Havrix Monodose",
             "category": ["Hepatitis A Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Havryks",
             "category": ["Hepatitis A Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Menvac-A",
             "category": ["Hepatitis A Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Menveo",
             "category": ["Meningococcal ACWY Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Menactra",
             "category": ["Meningococcal ACWY Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Menacttra",
             "category": ["Meningococcal ACWY Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Bexsero",
             "category": ["Meningococcal B Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Truemenba",
             "category": ["Meningococcal B Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Adacel",
             "category": ["Tdap"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Boostrix",
             "category": ["Tdap"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Gardasil",
             "category": ["Human Papillomavirus Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Cevarix",
             "category": ["Human Papillomavirus Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         },
         {
             "name" : "Gardasil 9",
             "category": ["Human Papillomavirus Vaccine"],
-            "description": "",
-            "contraindications" : ""
+            "administration": "",
+            "contraindications" : "",
+            "pdf" : ""
         }
     ]
 }
